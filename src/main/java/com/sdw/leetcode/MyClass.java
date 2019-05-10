@@ -1,4 +1,4 @@
-package yiquan.xianquan.com.java;
+package com.sdw.leetcode;
 
 public class MyClass {
     public static void main(String[] arr) {
