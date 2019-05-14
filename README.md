@@ -66,39 +66,39 @@
 
 [33，搜索旋转排序数组()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet033.java)
 
-[34，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet034.java)
+[34，在排序数组中查找元素的第一个和最后一个位置()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet034.java)
 
-[35，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet035.java)
+[35，搜索插入位置()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet035.java)
 
-[36，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet036.java)
+[36，有效的数独()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet036.java)
 
-[37，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet037.java)
+[37，解数独()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet037.java)
 
-[38，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet038.java)
+[38，报数()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet038.java)
 
-[39，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet039.java)
+[39，组合总和()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet039.java)
 
-[40，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet040.java)
+[40，组合总和 II()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet040.java)
 
-[41，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet041.java)
+[41，缺失的第一个正数()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet041.java)
 
-[42，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet042.java)
+[42，接雨()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet042.java)
 
-[43，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet043.java)
+[43，字符串相乘()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet043.java)
 
-[44，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet044.java)
+[44，通配符匹配()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet044.java)
 
-[45，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet045.java)
+[45，跳跃游戏 II()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet045.java)
 
-[46，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet046.java)
+[46，全排列()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet046.java)
 
-[47，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet047.java)
+[47，全排列 II()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet047.java)
 
-[48，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet048.java)
+[48，旋转图像()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet048.java)
 
-[49，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet049.java)
+[49，字母异位词分组()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet049.java)
 
-[50，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet050.java)
+[50，Pow(x, n)()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet050.java)
 
 [51，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet051.java)
 
