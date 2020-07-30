@@ -2,7 +2,7 @@
 
 [1，两数之和(Two Sum)](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0001.md>)
 
-[1，两数之和(Two Sum)](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet001.java>)
+[<a href="http://c.biancheng.net/c" target="_blank">C语言学习教程</a>，](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet001.java>)
 
 [2，两数相加(Add Two Numbers)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet002.java)
 
