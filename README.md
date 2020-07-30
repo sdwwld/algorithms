@@ -600,7 +600,7 @@
 
 [299，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet299.java)
 
-[300，(最长上升子序列)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md)
+<a href="https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md" target="_blank">300，(最长上升子序列)</a>
 
 [301，()](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leet301.java)
 
