@@ -2,7 +2,9 @@
 
 
 
-**```***java*
+```java
+
+```
 
 class Solution {
 
@@ -24,11 +26,15 @@ class Solution {
 
 }
 
-**```**
+```java
+
+```
 
 **2，使用HashMap解决**
 
-**```**
+```java
+
+```
 
   public int[] twoSum(int[] nums, int target) {
 
@@ -50,7 +56,9 @@ class Solution {
 
   }
 
-**```**
+```java
+
+```
 
 3，我本来以为前两种方式就够了，后来想了下使用排序可不可以，结果发现排序还能击败52.38%的用户，出乎我的意料，当然这种写法效率很差，看看就行。
 
@@ -58,7 +66,9 @@ class Solution {
 
 
 
-**```**
+```java
+
+```
 
   public int[] twoSum(int[] nums, int target) {
 
@@ -120,5 +130,7 @@ class Solution {
 
   }
 
-**```**
+```java
+
+```
 
