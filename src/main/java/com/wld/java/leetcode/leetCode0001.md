@@ -3,62 +3,36 @@
 
 
 ```java
-
-```
-
 class Solution {
-
-  public int[] twoSum(int[] nums, int target) {
-
-​    for (int i = 0; i < nums.length - 1; i++) {
-
-​      for (int j = i + 1; j < nums.length; j++)
-
-​        if (nums[i] + nums[j] == target)
-
-​          return new int[]{i, j};
-
-​    }
-
-​    return new int[]{-1, -1};
-
-  }
-
+    public int[] twoSum(int[] nums, int target) {
+        for (int i = 0; i < nums.length - 1; i++) {
+            for (int j = i + 1; j < nums.length; j++)
+                if (nums[i] + nums[j] == target)
+                    return new int[]{i, j};
+        }
+        return new int[]{-1, -1};
+    }
 }
-
-```java
-
 ```
+
+
 
 **2，使用HashMap解决**
 
 ```java
-
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> m = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (m.get(target - nums[i]) != null) {
+                return new int[]{m.get(target - nums[i]), i};
+            }
+            m.put(nums[i], i);
+        }
+        return new int[]{0, 0};
+    }
 ```
 
-  public int[] twoSum(int[] nums, int target) {
-
-​    Map<Integer, Integer> m = new HashMap<>();
-
-​    for (int i = 0; i < nums.length; i++) {
-
-​      if (m.get(target - nums[i]) != null) {
-
-​        return new int[]{m.get(target - nums[i]), i};
-
-​      }
-
-​      m.put(nums[i], i);
-
-​    }
-
-​    return new int[]{0, 0};
-
-  }
-
-```java
-
-```
+  
 
 3，我本来以为前两种方式就够了，后来想了下使用排序可不可以，结果发现排序还能击败52.38%的用户，出乎我的意料，当然这种写法效率很差，看看就行。
 
@@ -67,70 +41,36 @@ class Solution {
 
 
 ```java
+    public int[] twoSum(int[] nums, int target) {
+        Object[] objects = new Object[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            objects[i] = new int[]{nums[i], i};
+        }
+        Arrays.sort(objects, new Comparator<Object>() {
 
+            @Override
+            public int compare(Object o, Object t1) {
+                int[] arr1 = (int[]) o;
+                int[] arr2 = (int[]) t1;
+                return arr1[0] - arr2[0];
+            }
+        });
+        int left = 0;
+        int right = nums.length - 1;
+        while (left < right) {
+            int[] leftValue = (int[]) objects[left];
+            int[] rightValue = (int[]) objects[right];
+            int value = leftValue[0] + rightValue[0];
+            if (value == target)
+                return new int[]{leftValue[1], rightValue[1]};
+            else if (value < target) {
+                left++;
+            } else {
+                right--;
+            }
+        }
+        return new int[2];
+    }
 ```
 
-  public int[] twoSum(int[] nums, int target) {
-
-​    Object[] objects = new Object[nums.length];
-
-​    for (int i = 0; i < nums.length; i++) {
-
-​      objects[i] = new int[]{nums[i], i};
-
-​    }
-
-​    Arrays.sort(objects, new Comparator<Object>() {
-
-
-
-​      @Override
-
-​      public int compare(Object o, Object t1) {
-
-​        int[] arr1 = (int[]) o;
-
-​        int[] arr2 = (int[]) t1;
-
-​        return arr1[0] - arr2[0];
-
-​      }
-
-​    });
-
-​    int left = 0;
-
-​    int right = nums.length - 1;
-
-​    while (left < right) {
-
-​      int[] leftValue = (int[]) objects[left];
-
-​      int[] rightValue = (int[]) objects[right];
-
-​      int value = leftValue[0] + rightValue[0];
-
-​      if (value == target)
-
-​        return new int[]{leftValue[1], rightValue[1]};
-
-​      else if (value < target) {
-
-​        left++;
-
-​      } else {
-
-​        right--;
-
-​      }
-
-​    }
-
-​    return new int[2];
-
-  }
-
-```java
-
-```
-
+ 
