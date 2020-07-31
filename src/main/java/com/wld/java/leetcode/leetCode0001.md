@@ -19,7 +19,7 @@
 
 **1，暴力破解法**
 
-
+暴力破解是最容易想到的，每两两相加判断结果是否等于target，如果等于直接return
 
 ```java
 class Solution {
@@ -37,6 +37,8 @@ class Solution {
 
 
 **2，使用HashMap解决**
+
+暴力破解毕竟效率很差，我们还可以使用Map来解决
 
 ```java
     public int[] twoSum(int[] nums, int target) {
