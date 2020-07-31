@@ -1,4 +1,4 @@
-# leetCode
+# leetCode算法题详解
 
 [1. 两数之和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0001.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
@@ -64,4 +64,20 @@
 
 
 
+### 上面只列出了leetCode的一部分，想看更多算法题可以点击下面链接进入
+
 # [leetCode算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/profile_leetCode.md)
+
+# [剑指offer算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/profile_offer.md)
+
+# [其他算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/profile_other.md)
+
+
+
+#### 如果大家有兴趣的话还可以关注我微信公众号“数据结构和算法”，也可以直接扫描下发二维码关注，会经常推送一些关于算法的题，和大家一起来探讨学习。
+
+![img](https://img-blog.csdnimg.cn/20190515124616751.jpg)
+
+
+
+##### ps：如果大家有更好的算法题，或者某一道题有更好的解题思路，并且想让更多的人看到，可以写出markdown格式发给我，我会在这道题后面的贡献者链接中添加上你的名字或者昵称，点击还可以进入你的主页，或者博客，或者公众号之类的。
