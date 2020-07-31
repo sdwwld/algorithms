@@ -2,7 +2,7 @@
 
 [1. 两数之和(Two Sum)（简单）](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0001.md>)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[2. 两数相加（中等）](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0002.md>)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[2. 两数相加](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0002.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [3. 无重复字符的最长子串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md>)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
