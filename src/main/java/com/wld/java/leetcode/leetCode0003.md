@@ -1,6 +1,6 @@
 **1，双指针**
 
-1，我们使用两个指针，一个i一个j，最开始的时候i和j指向第一个元素，然后i往后移，把扫描过的元素都放到map中，如果i扫描过的元素没有重复的就一直往后移，顺便记录一下最大值max，如果i扫描过的元素有重复的，就改变j的位置，我们就以pwwkew为例画个图看一下
+我们使用两个指针，一个i一个j，最开始的时候i和j指向第一个元素，然后i往后移，把扫描过的元素都放到map中，如果i扫描过的元素没有重复的就一直往后移，顺便记录一下最大值max，如果i扫描过的元素有重复的，就改变j的位置，我们就以pwwkew为例画个图看一下
 
 ![image.png](https://pic.leetcode-cn.com/c759738650c417a23b1e9636f6f40a553d9258f1cc8907d8da3555b5d2f93e60-image.png)
 
@@ -118,6 +118,8 @@
 
 
 **6，方法5的优化**
+
+这里我们还可以改一下，把right-left改为set.size(),顺便再减少一层while循环
 
 ```java
     public int lengthOfLongestSubstring(String s) {
