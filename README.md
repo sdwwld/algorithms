@@ -6,6 +6,8 @@
 
 [3. 无重复字符的最长子串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md>)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
+[4. 寻找两个正序数组的中位数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0004.md>)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
 [300. 最长上升子序列](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [1014. 最佳观光组合](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode1014.md)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
