@@ -1,4 +1,4 @@
-#### [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+## [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)（中等）
 
 将一个给定字符串根据给定的行数，以从上往下、从左到右进行 Z 字形排列。
 
@@ -42,3 +42,12 @@ T     S     G
 
 
 ### 答案：
+
+
+
+
+
+#### [上一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)
+
+#### [下一题（7. 整数反转）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0007.md)
+
