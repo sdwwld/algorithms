@@ -1,4 +1,4 @@
-#### [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+## [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)（中等）
 
 实现 [pow(*x*, *n*)](https://www.cplusplus.com/reference/valarray/pow/) ，即计算 x 的 n 次幂函数。
 
@@ -33,3 +33,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

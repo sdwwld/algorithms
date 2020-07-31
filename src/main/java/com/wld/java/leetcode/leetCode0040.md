@@ -1,4 +1,4 @@
-#### [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
+## [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)（中等）
 
 给定一个数组 candidates 和一个目标数 target ，找出 candidates 中所有可以使数字和为 target 的组合。
 
@@ -37,3 +37,8 @@ candidates 中的每个数字在每个组合中只能使用一次。
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

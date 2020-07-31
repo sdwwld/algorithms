@@ -1,4 +1,4 @@
-#### [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+## [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)（困难）
 
 给你一个链表，每 k 个节点一组进行翻转，请你返回翻转后的链表。
 
@@ -23,3 +23,8 @@ k 是一个正整数，它的值小于或等于链表的长度。
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

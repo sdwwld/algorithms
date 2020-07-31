@@ -1,4 +1,4 @@
-#### [68. 文本左右对齐](https://leetcode-cn.com/problems/text-justification/)
+## [68. 文本左右对齐](https://leetcode-cn.com/problems/text-justification/)（困难）
 
 给定一个单词数组和一个长度 maxWidth，重新排版单词，使其成为每行恰好有 maxWidth 个字符，且左右两端对齐的文本。
 
@@ -67,3 +67,8 @@ maxWidth = 20
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

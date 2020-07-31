@@ -1,4 +1,4 @@
-#### [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
+## [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)（中等）
 
 判断一个 9x9 的数独是否有效。只需要**根据以下规则**，验证已经填入的数字是否有效即可。
 
@@ -61,3 +61,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

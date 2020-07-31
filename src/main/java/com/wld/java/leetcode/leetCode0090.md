@@ -1,4 +1,4 @@
-#### [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
+## [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)（中等）
 
 给定一个可能包含重复元素的整数数组 ***nums***，返回该数组所有可能的子集（幂集）。
 
@@ -23,3 +23,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

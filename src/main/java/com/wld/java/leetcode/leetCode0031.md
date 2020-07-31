@@ -1,4 +1,4 @@
-#### [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+## [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)（中等）
 
 实现获取下一个排列的函数，算法需要将给定数字序列重新排列成字典序中下一个更大的排列。
 
@@ -18,3 +18,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

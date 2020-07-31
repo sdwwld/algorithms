@@ -1,4 +1,4 @@
-#### [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
+## [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)（中等）
 
 给定一个无重复元素的数组 candidates 和一个目标数 target ，找出 candidates 中所有可以使数字和为 target 的组合。
 
@@ -43,3 +43,8 @@ candidates 中的数字可以无限制重复被选取。
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

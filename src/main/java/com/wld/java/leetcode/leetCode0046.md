@@ -1,4 +1,4 @@
-#### [46. 全排列](https://leetcode-cn.com/problems/permutations/)
+## [46. 全排列](https://leetcode-cn.com/problems/permutations/)（中等）
 
 给定一个 **没有重复** 数字的序列，返回其所有可能的全排列。
 
@@ -21,3 +21,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

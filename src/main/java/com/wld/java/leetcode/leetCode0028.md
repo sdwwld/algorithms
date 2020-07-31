@@ -1,4 +1,4 @@
-#### [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+## [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)（简单）
 
 实现 [strStr()](https://baike.baidu.com/item/strstr/811469) 函数。
 
@@ -28,3 +28,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

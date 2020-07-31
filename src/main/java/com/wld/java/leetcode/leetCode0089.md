@@ -1,4 +1,4 @@
-#### [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
+## [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)（中等）
 
 格雷编码是一个二进制数字系统，在该系统中，两个连续的数值仅有一个位数的差异。
 
@@ -40,3 +40,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)

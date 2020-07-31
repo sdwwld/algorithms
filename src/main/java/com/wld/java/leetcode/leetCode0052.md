@@ -1,4 +1,4 @@
-#### [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)
+## [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)（困难）
 
 *n* 皇后问题研究的是如何将 *n* 个皇后放置在 *n*×*n* 的棋盘上，并且使皇后彼此之间不能相互攻击。
 
@@ -36,3 +36,8 @@
 
 ### 答案：
 
+
+
+#### [上一题（3. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0003.md)
+
+#### [下一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)
