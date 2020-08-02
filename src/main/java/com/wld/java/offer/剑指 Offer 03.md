@@ -1,0 +1,13 @@
+## [剑指 Offer 3. 数组中重复的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+
+
+
+
+
+### 答案：
+
+
+
+#### [上一题（2. 测试数据）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指 Offer 02.md)
+
+#### [下一题（4. 二维数组中的查找）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指 Offer 04.md)
