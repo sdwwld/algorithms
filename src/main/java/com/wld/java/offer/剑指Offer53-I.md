@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（52. 两个链表的第一个公共节点-I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer52.md)
+#### [上一题（52. 两个链表的第一个公共节点）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer52.md)
 
-#### [下一题（53. 0～n-1中缺失的数字-I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer53-II.md)
+#### [下一题（53. 0～n-1中缺失的数字-II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer53-II.md)

@@ -10,4 +10,4 @@
 
 #### [上一题（30. 包含min函数的栈）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer30.md)
 
-#### [下一题（32. 从上到下打印二叉树）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-I.md)
+#### [下一题（32. 从上到下打印二叉树-I）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-I.md)

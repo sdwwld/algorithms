@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（14. 剪绳子）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer14-II.md)
+#### [上一题（14. 剪绳子-II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer14-II.md)
 
 #### [下一题（16. 数值的整数次方）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer16.md)

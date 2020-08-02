@@ -10,4 +10,4 @@
 
 #### [上一题（51. 数组中的逆序对）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer51.md)
 
-#### [下一题（53. 在排序数组中查找数字 I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer53-I.md)
+#### [下一题（53. 在排序数组中查找数字 I-I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer53-I.md)

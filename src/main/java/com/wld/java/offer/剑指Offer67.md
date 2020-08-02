@@ -10,4 +10,4 @@
 
 #### [上一题（66. 构建乘积数组）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer66.md)
 
-#### [下一题（68. 二叉搜索树的最近公共祖先）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer68-I.md)
+#### [下一题（68. 二叉搜索树的最近公共祖先-I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer68-I.md)

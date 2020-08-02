@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（54. 二叉搜索树的第k大节点-I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer54.md)
+#### [上一题（54. 二叉搜索树的第k大节点）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer54.md)
 
-#### [下一题（55. 平衡二叉树-I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer55-II.md)
+#### [下一题（55. 平衡二叉树-II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer55-II.md)
