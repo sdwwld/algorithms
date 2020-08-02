@@ -1,4 +1,4 @@
-## [剑指Offer67. 把字符串转换成整数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer剑指Offer67. 把字符串转换成整数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 
@@ -10,4 +10,4 @@
 
 #### [上一题（66. 构建乘积数组）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer66.md)
 
-#### [下一题（68. 二叉搜索树的最近公共祖先）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer68- I.md)
+#### [下一题（68. 二叉搜索树的最近公共祖先）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer68-I.md)
