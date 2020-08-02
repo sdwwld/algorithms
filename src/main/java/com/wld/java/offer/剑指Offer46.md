@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer46. 把数字翻译成字符串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer46. 把数字翻译成字符串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

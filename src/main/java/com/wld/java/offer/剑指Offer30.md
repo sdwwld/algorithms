@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer30. 包含min函数的栈](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer30. 包含min函数的栈](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

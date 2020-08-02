@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer24. 反转链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer24. 反转链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

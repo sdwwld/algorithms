@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer53. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer53. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

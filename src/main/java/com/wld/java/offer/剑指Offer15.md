@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer15. 二进制中1的个数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer15. 二进制中1的个数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer38. 字符串的排列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer38. 字符串的排列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

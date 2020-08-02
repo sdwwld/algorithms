@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

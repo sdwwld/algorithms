@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer10. 斐波那契数列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer10. 斐波那契数列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer4. 二维数组中的查找](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer4. 二维数组中的查找](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

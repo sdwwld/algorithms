@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer63. 股票的最大利润](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer63. 股票的最大利润](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer56. 数组中数字出现的次数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer56. 数组中数字出现的次数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

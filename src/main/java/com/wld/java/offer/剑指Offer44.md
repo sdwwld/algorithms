@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

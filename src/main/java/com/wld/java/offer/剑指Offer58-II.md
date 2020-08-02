@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer58. 左旋转字符串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer58. 左旋转字符串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer7. 重建二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer7. 重建二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

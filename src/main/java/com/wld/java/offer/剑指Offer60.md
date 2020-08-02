@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer60. n个骰子的点数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer60. n个骰子的点数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

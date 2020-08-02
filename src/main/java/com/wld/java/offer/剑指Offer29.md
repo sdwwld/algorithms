@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer29. 顺时针打印矩阵](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer29. 顺时针打印矩阵](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

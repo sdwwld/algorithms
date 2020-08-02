@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer25. 合并两个排序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer25. 合并两个排序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

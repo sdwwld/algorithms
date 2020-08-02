@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer68. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer68. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

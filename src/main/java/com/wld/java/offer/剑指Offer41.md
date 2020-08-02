@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer41. 数据流中的中位数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
+## [ 剑指 Offer41. 数据流中的中位数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer65. 不用加减乘除做加法](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [ 剑指 Offer65. 不用加减乘除做加法](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

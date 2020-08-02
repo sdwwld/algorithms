@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer59. 队列的最大值](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer59. 队列的最大值](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

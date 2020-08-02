@@ -1,4 +1,4 @@
-## [ 剑指 Offer剑指Offer35. 复杂链表的复制](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [ 剑指 Offer35. 复杂链表的复制](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 
