@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（31. 栈的压入、弹出序列）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer31.md)
+#### [上一题（31. 栈的压入、弹出序列-I）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer31.md)
 
-#### [下一题（32. 从上到下打印二叉树 II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)
+#### [下一题（32. 从上到下打印二叉树 II-I）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)

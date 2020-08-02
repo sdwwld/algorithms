@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（32. 从上到下打印二叉树 II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)
+#### [上一题（32. 从上到下打印二叉树 II-III）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)
 
-#### [下一题（33. 二叉搜索树的后序遍历序列）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer33.md)
+#### [下一题（33. 二叉搜索树的后序遍历序列-III）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer33.md)
