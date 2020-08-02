@@ -66,11 +66,11 @@
 
 ### 上面只列出了leetCode的一部分，想看更多算法题可以点击下面链接进入
 
-# [leetCode算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/profile_leetCode.md)
+# [leetCode算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode.md)
 
-# [剑指offer算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/profile_offer.md)
+# [剑指offer算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/offer.md)
 
-# [其他算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/profile_other.md)
+# [其他算法题答案详解](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/other/other.md)
 
 
 
