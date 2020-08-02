@@ -1,4 +1,4 @@
-## [ 剑指 Offer39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

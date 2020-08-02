@@ -1,4 +1,4 @@
-## [ 剑指 Offer34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

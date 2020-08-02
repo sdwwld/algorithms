@@ -1,4 +1,4 @@
-## [ 剑指 Offer32. 从上到下打印二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 32. 从上到下打印二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer55. 平衡二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 55. 平衡二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

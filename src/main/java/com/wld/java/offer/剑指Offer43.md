@@ -1,4 +1,4 @@
-## [ 剑指 Offer43. 1～n整数中1出现的次数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 43. 1～n整数中1出现的次数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

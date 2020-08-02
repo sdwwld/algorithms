@@ -1,4 +1,4 @@
-## [ 剑指 Offer54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

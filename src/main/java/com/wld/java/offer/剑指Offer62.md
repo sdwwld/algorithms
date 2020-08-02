@@ -1,4 +1,4 @@
-## [ 剑指 Offer62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

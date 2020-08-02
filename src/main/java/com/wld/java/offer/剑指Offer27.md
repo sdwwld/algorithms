@@ -1,4 +1,4 @@
-## [ 剑指 Offer27. 二叉树的镜像](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

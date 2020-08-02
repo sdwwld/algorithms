@@ -1,4 +1,4 @@
-## [ 剑指 Offer14. 剪绳子](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 14. 剪绳子](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

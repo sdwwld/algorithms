@@ -1,4 +1,4 @@
-## [ 剑指 Offer9. 用两个栈实现队列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 9. 用两个栈实现队列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

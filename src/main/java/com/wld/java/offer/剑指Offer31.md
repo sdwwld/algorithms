@@ -1,4 +1,4 @@
-## [ 剑指 Offer31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

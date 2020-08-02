@@ -1,4 +1,4 @@
-## [ 剑指 Offer12. 矩阵中的路径](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

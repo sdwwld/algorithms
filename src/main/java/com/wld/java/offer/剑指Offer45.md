@@ -1,4 +1,4 @@
-## [ 剑指 Offer45. 把数组排成最小的数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

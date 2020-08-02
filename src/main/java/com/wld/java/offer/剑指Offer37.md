@@ -1,4 +1,4 @@
-## [ 剑指 Offer37. 序列化二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
+## [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
 
 
 

@@ -1,4 +1,4 @@
-## [ 剑指 Offer49. 丑数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

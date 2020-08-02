@@ -1,4 +1,4 @@
-## [ 剑指 Offer20. 表示数值的字符串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 20. 表示数值的字符串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

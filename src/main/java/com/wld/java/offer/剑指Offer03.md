@@ -1,4 +1,4 @@
-## [ 剑指 Offer3. 数组中重复的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 3. 数组中重复的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

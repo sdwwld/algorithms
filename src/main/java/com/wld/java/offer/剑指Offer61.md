@@ -1,4 +1,4 @@
-## [ 剑指 Offer61. 扑克牌中的顺子](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 61. 扑克牌中的顺子](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

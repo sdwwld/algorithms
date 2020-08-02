@@ -1,4 +1,4 @@
-## [ 剑指 Offer11. 旋转数组的最小数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

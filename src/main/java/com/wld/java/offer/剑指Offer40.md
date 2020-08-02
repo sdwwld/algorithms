@@ -1,4 +1,4 @@
-## [ 剑指 Offer40. 最小的k个数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

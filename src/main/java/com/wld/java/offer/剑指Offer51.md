@@ -1,4 +1,4 @@
-## [ 剑指 Offer51. 数组中的逆序对](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
+## [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
 
 
 

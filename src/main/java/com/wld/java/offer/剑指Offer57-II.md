@@ -1,4 +1,4 @@
-## [ 剑指 Offer57. 和为s的连续正数序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 57. 和为s的连续正数序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

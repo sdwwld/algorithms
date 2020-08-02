@@ -1,4 +1,4 @@
-## [ 剑指 Offer10. 青蛙跳台阶问题](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 10. 青蛙跳台阶问题](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
 
 
 

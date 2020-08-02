@@ -1,4 +1,4 @@
-## [ 剑指 Offer13. 机器人的运动范围](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

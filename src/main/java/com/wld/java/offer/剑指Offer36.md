@@ -1,4 +1,4 @@
-## [ 剑指 Offer36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 

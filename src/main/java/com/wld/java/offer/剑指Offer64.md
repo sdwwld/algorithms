@@ -1,4 +1,4 @@
-## [ 剑指 Offer64. 求1+2+…+n](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 64. 求1+2+…+n](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 
