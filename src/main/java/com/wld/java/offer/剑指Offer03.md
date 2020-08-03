@@ -8,6 +8,4 @@
 
 
 
-#### [上一题（2. 测试数据）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer02.md)
-
 #### [下一题（4. 二维数组中的查找）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer04.md)
