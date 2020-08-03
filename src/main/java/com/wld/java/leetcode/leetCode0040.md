@@ -39,6 +39,6 @@ candidates 中的每个数字在每个组合中只能使用一次。
 
 
 
-#### [上一题（39. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0039.md)
+#### [上一题（39. 组合总和）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0039.md)
 
-#### [下一题（41. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0041.md)
+#### [下一题（41. 缺失的第一个正数）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0041.md)

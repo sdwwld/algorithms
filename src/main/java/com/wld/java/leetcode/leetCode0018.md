@@ -25,6 +25,6 @@
 
 
 
-#### [上一题（17. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0017.md)
+#### [上一题（17. 电话号码的字母组合）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0017.md)
 
-#### [下一题（19. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0019.md)
+#### [下一题（19. 删除链表的倒数第N个节点）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0019.md)

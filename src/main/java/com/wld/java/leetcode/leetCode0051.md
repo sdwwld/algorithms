@@ -39,6 +39,6 @@
 
 
 
-#### [上一题（50. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0050.md)
+#### [上一题（50. Pow(x, n)）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0050.md)
 
-#### [下一题（52. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0052.md)
+#### [下一题（52. N皇后 II）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0052.md)

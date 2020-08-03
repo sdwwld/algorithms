@@ -26,6 +26,6 @@
 
 
 
-#### [上一题（33. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0033.md)
+#### [上一题（33. 搜索旋转排序数组）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0033.md)
 
-#### [下一题（35. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0035.md)
+#### [下一题（35. 搜索插入位置）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0035.md)

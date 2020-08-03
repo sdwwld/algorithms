@@ -22,6 +22,6 @@
 
 
 
-#### [上一题（82. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0082.md)
+#### [上一题（82. 删除排序链表中的重复元素 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0082.md)
 
-#### [下一题（84. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0084.md)
+#### [下一题（84. 柱状图中最大的矩形）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0084.md)

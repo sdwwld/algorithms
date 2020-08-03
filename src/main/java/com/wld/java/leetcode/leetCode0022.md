@@ -21,6 +21,6 @@
 
 
 
-#### [上一题（21. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0021.md)
+#### [上一题（21. 合并两个有序链表）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0021.md)
 
-#### [下一题（23. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0023.md)
+#### [下一题（23. 合并K个排序链表）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0023.md)

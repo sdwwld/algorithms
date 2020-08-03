@@ -69,6 +69,6 @@ p = "a*c?b"
 
 
 
-#### [上一题（43. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0043.md)
+#### [上一题（43. 字符串相乘）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0043.md)
 
-#### [下一题（45. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0045.md)
+#### [下一题（45. 跳跃游戏 II）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0045.md)

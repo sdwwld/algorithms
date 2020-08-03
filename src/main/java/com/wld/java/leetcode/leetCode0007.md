@@ -33,6 +33,6 @@
 
 
 
-#### [上一题（6. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0006.md)
+#### [上一题（6. Z 字形变换）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0006.md)
 
-#### [下一题（8. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0008.md)
+#### [下一题（8. 字符串转换整数 (atoi)）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0008.md)

@@ -22,6 +22,6 @@
 
 
 
-#### [上一题（96. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0096.md)
+#### [上一题（96. 不同的二叉搜索树）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0096.md)
 
-#### [下一题（98. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0098.md)
+#### [下一题（98. 验证二叉搜索树）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0098.md)

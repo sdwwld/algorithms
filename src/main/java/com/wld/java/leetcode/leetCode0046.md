@@ -23,6 +23,6 @@
 
 
 
-#### [上一题（45. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0045.md)
+#### [上一题（45. 跳跃游戏 II）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0045.md)
 
-#### [下一题（47. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0047.md)
+#### [下一题（47. 全排列 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0047.md)

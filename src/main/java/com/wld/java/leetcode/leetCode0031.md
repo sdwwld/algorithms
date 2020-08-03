@@ -20,6 +20,6 @@
 
 
 
-#### [上一题（30. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0030.md)
+#### [上一题（30. 串联所有单词的子串）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0030.md)
 
-#### [下一题（32. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0032.md)
+#### [下一题（32. 最长有效括号）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0032.md)

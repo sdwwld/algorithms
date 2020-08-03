@@ -66,6 +66,6 @@ r   g  ta  e
 
 
 
-#### [上一题（86. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0086.md)
+#### [上一题（86. 分隔链表）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0086.md)
 
-#### [下一题（88. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0088.md)
+#### [下一题（88. 合并两个有序数组）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0088.md)

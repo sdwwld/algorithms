@@ -16,7 +16,7 @@
 
 [8. 字符串转换整数 (atoi)](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0008.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[9. 回文数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0009.md>)（简答）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[9. 回文数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0009.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [10. 正则表达式匹配](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0010.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 

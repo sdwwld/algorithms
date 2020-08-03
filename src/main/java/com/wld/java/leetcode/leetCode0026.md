@@ -49,6 +49,6 @@ for (int i = 0; i < len; i++) {
 
 
 
-#### [上一题（25. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0025.md)
+#### [上一题（25. K 个一组翻转链表）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0025.md)
 
-#### [下一题（27. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0027.md)
+#### [下一题（27. 移除元素）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0027.md)

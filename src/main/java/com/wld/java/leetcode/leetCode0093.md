@@ -17,6 +17,6 @@
 
 
 
-#### [上一题（92. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0092.md)
+#### [上一题（92. 反转链表 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0092.md)
 
-#### [下一题（94. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0094.md)
+#### [下一题（94. 二叉树的中序遍历）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0094.md)

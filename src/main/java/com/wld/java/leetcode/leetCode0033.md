@@ -30,6 +30,6 @@
 
 
 
-#### [上一题（32. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0032.md)
+#### [上一题（32. 最长有效括号）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0032.md)
 
-#### [下一题（34. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0034.md)
+#### [下一题（34. 在排序数组中查找元素的第一个和最后一个位置）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0034.md)

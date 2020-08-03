@@ -38,6 +38,6 @@ exection -> execution (插入 'u')
 
 
 
-#### [上一题（71. 无重复字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0071.md)
+#### [上一题（71. 简化路径）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0071.md)
 
-#### [下一题（73. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0073.md)
+#### [下一题（73. 矩阵置零）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0073.md)
