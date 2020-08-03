@@ -1,4 +1,4 @@
-## [剑指 Offer 32. 从上到下打印二叉树 III-III](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [剑指 Offer 32. 从上到下打印二叉树-III](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
 
 
 
@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（32. 从上到下打印二叉树 II-II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)
+#### [上一题（32. 从上到下打印二叉树-II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)
 
 #### [下一题（33. 二叉搜索树的后序遍历序列）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer33.md)
