@@ -42,24 +42,6 @@
 
 [21. 合并两个有序链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0021.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[22. 括号生成](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0022.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[23. 合并K个排序链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0023.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[24. 两两交换链表中的节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0024.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[25. K 个一组翻转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0025.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[26. 删除排序数组中的重复项](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0026.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[27. 移除元素](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0027.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[28. 实现 strStr()](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0028.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[29. 两数相除](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0029.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-[30. 串联所有单词的子串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0030.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
 # …………………………
 
 
