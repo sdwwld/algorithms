@@ -1,6 +1,6 @@
-## [剑指 Offer 3. 数组中重复的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [剑指 Offer 3. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof)（简单）
 
-
+![image-20200803115747203](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200803115747203.png)
 
 
 
