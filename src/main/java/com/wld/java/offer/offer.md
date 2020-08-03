@@ -36,7 +36,7 @@
 
 [剑指 Offer 19. 正则表达式匹配](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer19.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 20. 表示数值的字符串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer13.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 20. 表示数值的字符串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer20.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer21.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
