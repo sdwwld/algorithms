@@ -27,20 +27,20 @@
 
 
 
-**暴力求解**
+### 答案：
 
 这题其实最容易想到的就是暴力求解，每两个两个计算，记录下最大值，最后再返回，代码比较简单
 
-```
-1public int maxScoreSightseeingPair(int[] A) {
-2    int res = 0;
-3    for (int i = 0; i < A.length; i++) {
-4        for (int j = i + 1; j < A.length; j++) {
-5            res = Math.max(res, A[i] + i + A[j] - j);
-6        }
-7    }
-8    return res;
-9}
+```java
+public int maxScoreSightseeingPair(int[] A) {
+    int res = 0;
+    for (int i = 0; i < A.length; i++) {
+        for (int j = i + 1; j < A.length; j++) {
+            res = Math.max(res, A[i] + i + A[j] - j);
+        }
+    }
+    return res;
+}
 ```
 
 
