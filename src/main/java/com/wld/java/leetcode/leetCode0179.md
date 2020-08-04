@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（178. 分数排名）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0178.md)
+#### [上一题（174. 地下城游戏）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0174.md)
 
-#### [下一题（180. 连续出现的数字）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0180.md)
+#### [下一题（187. 重复的DNA序列）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0187.md)

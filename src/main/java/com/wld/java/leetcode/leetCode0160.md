@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（159. 至多包含两个不同字符的最长子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0159.md)
+#### [上一题（155. 最小栈）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0155.md)
 
-#### [下一题（161. 相隔为 1 的编辑距离）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0161.md)
+#### [下一题（162. 寻找峰值）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0162.md)

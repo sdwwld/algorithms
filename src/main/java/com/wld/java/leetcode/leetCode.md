@@ -208,8 +208,6 @@
 
 [104. 二叉树的最大深度](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0104.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[105. 从前序与中序遍历序列构造二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0105.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
 [106. 从中序与后序遍历序列构造二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0106.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [107. 二叉树的层次遍历 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0107.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
@@ -298,7 +296,189 @@
 
 [149. 直线上最多的点数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0149.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[300. 最长上升子序列](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[150. 逆波兰表达式求值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0150.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[151. 翻转字符串里的单词](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0151.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[152. 乘积最大子数组](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0152.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[153. 寻找旋转排序数组中的最小值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0153.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[154. 寻找旋转排序数组中的最小值 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0154.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[155. 最小栈](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0155.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[160. 相交链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0160.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[162. 寻找峰值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0162.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[163. 缺失的区间](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0163.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[164. 最大间距](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0164.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[165. 比较版本号](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0165.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[166. 分数到小数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0166.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[167. 两数之和 II - 输入有序数组](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0167.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[168. Excel表列名称](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0168.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[169. 多数元素](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0169.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[171. Excel表列序号](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0171.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[172. 阶乘后的零](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0172.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[173. 二叉搜索树迭代器](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0173.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[174. 地下城游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0174.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[179. 最大数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0179.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[187. 重复的DNA序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0187.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[188. 买卖股票的最佳时机 IV](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0188.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[189. 旋转数组](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0189.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[190. 颠倒二进制位](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0190.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[191. 位1的个数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0191.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[198. 打家劫舍](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0198.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[199. 二叉树的右视图](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0199.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[200. 岛屿数量](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0200.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[201. 数字范围按位与](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0201.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[202. 快乐数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0202.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[203. 移除链表元素](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0203.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[204. 计数质数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0204.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[205. 同构字符串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0205.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[206. 反转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0206.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[207. 课程表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0207.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[208. 实现 Trie (前缀树)](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0208.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[209. 长度最小的子数组](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0209.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[210. 课程表 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0210.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[211. 添加与搜索单词 - 数据结构设计](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0211.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[212. 单词搜索 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0212.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[213. 打家劫舍 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0213.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[214. 最短回文串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0214.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[215. 数组中的第K个最大元素](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0215.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[216. 组合总和 III](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0216.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[217. 存在重复元素](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0217.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[218. 天际线问题](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0218.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[219. 存在重复元素 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0219.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[220. 存在重复元素 III](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0220.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[221. 最大正方形](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0221.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[222. 完全二叉树的节点个数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0222.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[223. 矩形面积](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0223.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[224. 基本计算器](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0224.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[225. 用队列实现栈](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0225.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[226. 翻转二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0226.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[227. 基本计算器 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0227.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[228. 汇总区间](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0228.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[229. 求众数 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0229.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[230. 二叉搜索树中第K小的元素](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0230.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[231. 2的幂](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0231.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[232. 用栈实现队列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0232.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[233. 数字 1 的个数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0233.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[234. 回文链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0234.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[235. 二叉搜索树的最近公共祖先](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0235.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[236. 二叉树的最近公共祖先](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0236.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[237. 删除链表中的节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0237.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[238. 除自身以外数组的乘积](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0238.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[239. 滑动窗口最大值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0239.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[240. 搜索二维矩阵 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0240.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[241. 为运算表达式设计优先级](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0241.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[242. 有效的字母异位词](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0242.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[257. 二叉树的所有路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0257.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[258. 各位相加](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0258.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[260. 只出现一次的数字 III](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0260.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[263. 丑数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0263.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[264. 丑数 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0264.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[268. 缺失数字](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0268.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[273. 整数转换英文表示](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0273.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[274. H 指数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0274.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[275. H指数 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0275.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[278. 第一个错误的版本](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0278.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[279. 完全平方数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0279.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[282. 给表达式添加运算符](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0282.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[283. 移动零](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0283.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[284. 顶端迭代器](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0284.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[287. 寻找重复数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0287.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[289. 生命游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0289.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[290. 单词规律](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0290.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[292. Nim 游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0292.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[295. 数据流的中位数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0295.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[297. 二叉树的序列化与反序列化](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0297.md>)（困难）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[299. 猜数字游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0299.md>)（简单）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+[300. 最长上升子序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [1014. 最佳观光组合](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode1014.md)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 

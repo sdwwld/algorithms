@@ -8,6 +8,6 @@
 
 
 
-#### [上一题（161. 相隔为 1 的编辑距离）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0161.md)
+#### [上一题（160. 相交链表）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0160.md)
 
 #### [下一题（163. 缺失的区间）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0163.md)
