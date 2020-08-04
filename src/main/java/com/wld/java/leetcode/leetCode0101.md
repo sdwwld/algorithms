@@ -1,4 +1,4 @@
-## [101. 对称二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)（简单）
 
 
 

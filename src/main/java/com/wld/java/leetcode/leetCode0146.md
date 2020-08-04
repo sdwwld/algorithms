@@ -1,4 +1,4 @@
-## [146. LRU缓存机制](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)（中等）
 
 
 

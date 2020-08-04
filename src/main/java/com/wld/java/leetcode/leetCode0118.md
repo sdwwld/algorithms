@@ -1,4 +1,4 @@
-## [118. 杨辉三角](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)（简单）
 
 
 

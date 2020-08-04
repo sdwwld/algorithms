@@ -1,4 +1,4 @@
-## [136. 只出现一次的数字](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)（简单）
 
 
 

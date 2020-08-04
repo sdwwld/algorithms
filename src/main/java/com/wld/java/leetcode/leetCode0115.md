@@ -1,4 +1,4 @@
-## [115. 不同的子序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
+## [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)（困难）
 
 
 

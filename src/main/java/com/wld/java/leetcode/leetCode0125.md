@@ -1,4 +1,4 @@
-## [125. 验证回文串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)（简单）
 
 
 

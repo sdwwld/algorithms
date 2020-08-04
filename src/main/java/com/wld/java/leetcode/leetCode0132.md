@@ -1,4 +1,4 @@
-## [132. 分割回文串 II](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
+## [132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)（困难）
 
 
 

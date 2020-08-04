@@ -1,4 +1,4 @@
-## [143. 重排链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)（中等）
 
 
 

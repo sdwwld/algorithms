@@ -1,4 +1,4 @@
-## [131. 分割回文串](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)（中等）
 
 
 

@@ -1,4 +1,4 @@
-## [120. 三角形最小路径和](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)（中等）
 
 
 

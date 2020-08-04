@@ -1,4 +1,4 @@
-## [112. 路径总和](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)（简单）
 
 
 

@@ -1,4 +1,4 @@
-## [128. 最长连续序列](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（困难）
+## [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)（困难）
 
 
 

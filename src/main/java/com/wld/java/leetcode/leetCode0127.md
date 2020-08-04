@@ -1,4 +1,4 @@
-## [127. 单词接龙](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（中等）
+## [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)（中等）
 
 
 

@@ -1,4 +1,4 @@
-## [110. 平衡二叉树](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（简单）
+## [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)（简单）
 
 
 
