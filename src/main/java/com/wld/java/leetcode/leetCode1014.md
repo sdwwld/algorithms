@@ -1,6 +1,4 @@
-**问题描述**
-
-
+## [1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)（中等）
 
 给定正整数数组 A，A[i] 表示第 i 个观光景点的评分，并且两个景点 i 和 j 之间的距离为 j - i。
 
@@ -55,15 +53,15 @@ res = A[i] + A[j] + i - j （i < j）
 
 我们求每个景点j的时候，他的A[j] - j 实际上是固定的，要想让res最大，我们就要想办法让A[i] + i尽可能大。所以我们可以使用一个变量cur记录下遍历过的最大值（当前值+当前下标），所以代码很容易想到
 
-```
-1public int maxScoreSightseeingPair(int[] A) {
-2    int res = 0, cur = A[0] + 0;
-3    for (int j = 1; j < A.length; ++j) {
-4        res = Math.max(res, cur + A[j] - j);
-5        cur = Math.max(cur, A[j] + j);
-6    }
-7    return res;
-8}
+```java
+public int maxScoreSightseeingPair(int[] A) {
+    int res = 0, cur = A[0] + 0;
+    for (int j = 1; j < A.length; ++j) {
+        res = Math.max(res, cur + A[j] - j);
+        cur = Math.max(cur, A[j] + j);
+    }
+    return res;
+}
 ```
 
 
