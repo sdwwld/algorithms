@@ -31,29 +31,29 @@
 
 我们再来看下代码
 
-```
- 1public int lengthOfLIS(int[] nums) {
- 2    //边界条件判断
- 3    if (nums == null || nums.length == 0) {
- 4        return 0;
- 5    }
- 6    int[] dp = new int[nums.length];
- 7    //初始化数组dp的每个值为1
- 8    Arrays.fill(dp, 1);
- 9    int max = 1;
-10    for (int i = 1; i < nums.length; i++) {
-11        for (int j = 0; j < i; j++) {
-12            //如果当前值nums[i]大于nums[j]，说明nums[i]可以和
-13            //nums[j]结尾的上升序列构成一个新的上升子序列
-14            if (nums[i] > nums[j]) {
-15                dp[i] = Math.max(dp[i], dp[j] + 1);
-16                //记录构成的最大值
-17                max = Math.max(max, dp[i]);
-18            }
-19        }
-20    }
-21    return max;
-22}
+```java
+public int lengthOfLIS(int[] nums) {
+    //边界条件判断
+    if (nums == null || nums.length == 0) {
+        return 0;
+    }
+    int[] dp = new int[nums.length];
+    //初始化数组dp的每个值为1
+    Arrays.fill(dp, 1);
+    int max = 1;
+    for (int i = 1; i < nums.length; i++) {
+        for (int j = 0; j < i; j++) {
+            //如果当前值nums[i]大于nums[j]，说明nums[i]可以和
+            //nums[j]结尾的上升序列构成一个新的上升子序列
+            if (nums[i] > nums[j]) {
+                dp[i] = Math.max(dp[i], dp[j] + 1);
+                //记录构成的最大值
+                max = Math.max(max, dp[i]);
+            }
+        }
+    }
+    return max;
+}
 ```
 
 <br/>
@@ -74,30 +74,30 @@
 
 再来看下代码
 
-```
- 1public int lengthOfLIS(int[] nums) {
- 2    //list中保存的是构成的上升子序列
- 3    ArrayList<Integer> list = new ArrayList<>(nums.length);
- 4    for (int num : nums) {
- 5        //如果list为空，我们直接把num加进去。如果list的最后一个元素小于num，
- 6        //说明num加入到list的末尾可以构成一个更长的上升子序列，我们就把num
- 7        //加入到list的末尾
- 8        if (list.size() == 0 || list.get(list.size() - 1) < num)
- 9            list.add(num);
-10        else {
-11            //如果num不小于list的最后一个元素，我们就用num把list中第一
-12            //个大于他的值给替换掉,这样我们才能保证list中的元素在长度不变
-13            //的情况下，元素值尽可能的小
-14            int i = Collections.binarySearch(list, num);
-15            //因为list是从小到大排序的，所以上面使用的是二分法查找。当i大
-16            //于0的时候，说明出现了重复的，我们直接把他替换即可，如果i小于
-17            //0，我们对i取反，他就是list中第一个大于num值的位置，我们把它
-18            //替换即可
-19            list.set((i < 0) ? -i - 1 : i, num);
-20        }
-21    }
-22    return list.size();
-23}
+```java
+public int lengthOfLIS(int[] nums) {
+    //list中保存的是构成的上升子序列
+    ArrayList<Integer> list = new ArrayList<>(nums.length);
+    for (int num : nums) {
+        //如果list为空，我们直接把num加进去。如果list的最后一个元素小于num，
+        //说明num加入到list的末尾可以构成一个更长的上升子序列，我们就把num
+        //加入到list的末尾
+        if (list.size() == 0 || list.get(list.size() - 1) < num)
+            list.add(num);
+        else {
+            //如果num不小于list的最后一个元素，我们就用num把list中第一
+            //个大于他的值给替换掉,这样我们才能保证list中的元素在长度不变
+            //的情况下，元素值尽可能的小
+            int i = Collections.binarySearch(list, num);
+            //因为list是从小到大排序的，所以上面使用的是二分法查找。当i大
+            //于0的时候，说明出现了重复的，我们直接把他替换即可，如果i小于
+            //0，我们对i取反，他就是list中第一个大于num值的位置，我们把它
+            //替换即可
+            list.set((i < 0) ? -i - 1 : i, num);
+        }
+    }
+    return list.size();
+}
 ```
 
 <br/>
@@ -105,7 +105,5 @@
 **总结**
 
 这题也是比较常见的一道题，动态规划应该说是最好理解的。如果完全搞懂的话，下面的那种解法其实也是比较经典的。
-
-
 
 #### [上一题（299. 猜数字游戏）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0299.md)
