@@ -22,7 +22,7 @@
 
 [剑指 Offer 13. 机器人的运动范围](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer13.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 14- I. 剪绳子](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer14-I.md>)（中等）<font color=#FF000 >（未完）</font>【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 14- I. 剪绳子](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer14-I.md>)（中等）<font color=red >（未完）</font>【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [剑指 Offer 14- II. 剪绳子 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer14-II.md>)（中等）（未完）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
