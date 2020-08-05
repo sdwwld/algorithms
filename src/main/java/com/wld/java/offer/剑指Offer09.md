@@ -33,7 +33,7 @@
 
 ### 答案：
 
-做这题之前我们首先要明白一点就是，栈是先进后出的，队列是先进先出的。我们可以使用两个栈stackPop和stackPush，往队列中添加元素的时候直接把要添加的值压入到stackPush栈中。往队列中删除元素的时候如果stackPop中有元素我们就直接删除，如果没有元素，我们需要把stackPush中的元素全部出栈放到stackPop中，然后再删除stackPop中的元素。这样做的目的我们就可以保证stackPop中的元素永远都是比stackPush中的元素更老。
+做这题之前我们首先要明白一点就是，**栈是先进后出的，队列是先进先出的**。我们可以使用两个栈stackPop和stackPush，往队列中添加元素的时候直接把要添加的值压入到stackPush栈中。往队列中删除元素的时候如果stackPop中有元素我们就直接删除，如果没有元素，我们需要把stackPush中的元素全部出栈放到stackPop中，然后再删除stackPop中的元素。这样做的目的我们就可以保证stackPop中的元素永远都是比stackPush中的元素更老。
 
 ```java
 class CQueue {
