@@ -66,7 +66,7 @@ public boolean findNumberIn2DArray(int[][] matrix, int target) {
 
 从右上角开始找有个方便的地方就是他左边的都是比他小的，他下边的都是比他大的，如果target大于当前值我们就往下边找，如果target小于当前值我们就往左边找，来看下代码。
 
-```
+```java
     public boolean findNumberIn2DArray(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
