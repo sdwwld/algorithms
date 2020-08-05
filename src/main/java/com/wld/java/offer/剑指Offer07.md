@@ -99,17 +99,17 @@ private TreeNode helper(List<Integer> preorderList, List<Integer> inorderList) {
 
 这里只要找到了前序遍历的结点在中序遍历的位置，我们就可以把中序遍历数组分解为两部分了。如果index是前序遍历的某个值在中序遍历数组中的索引，以index为根节点划分的话，那么中序遍历中
 
-[0，index-1]就是根节点左子树的所有节点，
+**[0，index-1]就是根节点左子树的所有节点，**
 
-[index+1，inorder.length-1]就是根节点右子树的所有节点。
+**[index+1，inorder.length-1]就是根节点右子树的所有节点。**
 
-中序遍历好划分，那么前序遍历呢，如果是左子树：
+**中序遍历好划分，那么前序遍历呢，如果是左子树：**
 
-preStart=index+1；
+**preStart=index+1；**
 
-如果是右子树就稍微麻烦点，
+**如果是右子树就稍微麻烦点，**
 
-preStart=preStart+(index-instart+1)；
+**preStart=preStart+(index-instart+1)；**
 
 preStart是当前节点比如m先序遍历开始的位置，index-instart+1就是当前节点m左子树的数量加上当前节点的数量，所以preStart+(index-instart+1)就是当前节点m右子树前序遍历开始的位置，我们来看下完整代码
 
