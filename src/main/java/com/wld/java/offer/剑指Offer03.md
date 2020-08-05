@@ -35,6 +35,7 @@
     public int findRepeatNumber(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for (int num : nums) {
+       	    //如果add失败，表示有重复的，直接返回
             if (!set.add(num))
                 return num;
         }
@@ -48,6 +49,7 @@
 
 
     public int findRepeatNumber(int[] nums) {
+    	//先排序
         Arrays.sort(nums);
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1])
