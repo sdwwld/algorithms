@@ -107,9 +107,13 @@ public int cuttingRope(int n) {
 - dp[i]=dp[j]*dp[i-j];
 
 
+
+
 我们取上面4种情况的最大值即可。我们把它整理一下，得到递推公式如下
 
 **dp[i] = max(dp[i], (max(j, dp[j])) \* (max(i - j, dp[i - j])));**
+
+
 
 比如我们想计算长度为9的绳子，画个图来看一下
 
