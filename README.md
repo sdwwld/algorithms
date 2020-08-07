@@ -2,7 +2,7 @@
 
 **历尽千辛万苦终于把剑指offer上的答案全部整理完了，LeetCode上的前300道题也整理的差不多了，并且还整理了其他的一些算法题，如果觉得有用就在右上角点个star吧，你的star是给我最大的鼓励，也是我坚持写下去的最大动力**
 
-[![Github stars](https://img.shields.io/github/stars/sdwwld/algorithms?style=social)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/starErr.md)
+[![Github stars](https://img.shields.io/github/stars/sdwwld/algorithms?style=social)](https://github.com/sdwwld/algorithms)
 
 <br/>
 
