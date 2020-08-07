@@ -19,17 +19,13 @@
 
 
 
-
-
-![img](https://img.shields.io/github/stars/sdwwld/algorithms.svg)
-
-
-
-![Github stars](https://img.shields.io/github/stars/sdwwld/algorithms.svg)
-
-
-
 [![Github stars](https://img.shields.io/github/stars/sdwwld/algorithms.svg)](https://github.com/sdwwld/algorithms)
+
+
+
+[![Github stars](https://ghbtns.com/github-btn.html?user=sdwwld&repo=algorithms&type=star&count=true)](https://github.com/sdwwld/algorithms)
+
+
 
 
 
