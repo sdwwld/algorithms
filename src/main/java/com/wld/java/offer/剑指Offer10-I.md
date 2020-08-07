@@ -119,7 +119,7 @@ public int fib(int n) {
 
 ![image.png](https://pic.leetcode-cn.com/92483e711066fabe381cf189478d91f491013b952e9054de5827292898d1935f-image.png)
 
-
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
 #### [上一题（9. 用两个栈实现队列）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer09.md)
 

@@ -124,7 +124,7 @@ public boolean findNumberIn2DArray(int[][] matrix, int target) {
     }
 ```
 
-
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
 #### [上一题（3. 数组中重复的数字）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer03.md)
 

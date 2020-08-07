@@ -127,7 +127,7 @@ private int sum(int i, int j) {
 }
 ```
 
-
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
 #### [上一题（12. 矩阵中的路径）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer12.md)
 

@@ -232,7 +232,7 @@ private TreeNode build(int[] preorder, int[] inorder, int stop) {
 
 ![image.png](https://pic.leetcode-cn.com/4bcaf18cdb5c3cef93aa0460c1bad9880bd23298a56519a4807c5a584d92aedf-image.png)
 
-
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
 #### [上一题（6. 从尾到头打印链表）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer06.md)
 

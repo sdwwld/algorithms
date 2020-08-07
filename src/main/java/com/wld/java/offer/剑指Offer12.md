@@ -168,7 +168,7 @@ boolean dfs(char[][] board, char[] word, int i, int j, int index) {
 
 ![image.png](https://pic.leetcode-cn.com/ad8e2179a026a26a6cab40516baa8ba8ae778cba9421e0de7f9bd6642f7b6846-image.png)
 
-
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
 #### [上一题（11. 旋转数组的最小数字）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer11.md)
 
