@@ -29,6 +29,8 @@
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（56. 数组中数字出现的次数-II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer56-II.md)
 
 #### [下一题（57. 和为s的连续正数序列-II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer57-II.md)

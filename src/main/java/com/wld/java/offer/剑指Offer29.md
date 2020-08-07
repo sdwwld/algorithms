@@ -31,6 +31,8 @@
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（28. 对称的二叉树）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer28.md)
 
 #### [下一题（30. 包含min函数的栈）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer30.md)

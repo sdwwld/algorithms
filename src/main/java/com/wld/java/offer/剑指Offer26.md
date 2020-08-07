@@ -51,6 +51,8 @@ B是A的子结构， 即 A中有出现和B相同的结构和节点值。
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（25. 合并两个排序的链表）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer25.md)
 
 #### [下一题（27. 二叉树的镜像）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer27.md)

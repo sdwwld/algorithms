@@ -27,6 +27,8 @@ minStack.min();   --> 返回 -2.
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（29. 顺时针打印矩阵）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer29.md)
 
 #### [下一题（31. 栈的压入、弹出序列）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer31.md)

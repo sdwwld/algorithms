@@ -27,6 +27,8 @@
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（41. 数据流中的中位数）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer41.md)
 
 #### [下一题（43. 1～n整数中1出现的次数）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer43.md)

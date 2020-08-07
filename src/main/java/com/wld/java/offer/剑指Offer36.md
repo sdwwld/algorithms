@@ -22,6 +22,8 @@
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（35. 复杂链表的复制）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer35.md)
 
 #### [下一题（37. 序列化二叉树）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer37.md)
