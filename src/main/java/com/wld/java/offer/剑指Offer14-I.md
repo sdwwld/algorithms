@@ -44,7 +44,7 @@
 通过对函数求导我们发现，当x=n/e的时候，也就是每段绳子的长度是n/x=n/(n/e)=e的时候乘积最大。我们知道e=2.718281828459。而题中我们的绳子剪的长度都是整数，所以不可能取e，我们只能取接近e的值，也就是3的时候乘积最大。
 但也有例外，当n<=4的时候会有特殊情况，因为22>13。明白了这点代码就容易多了，如果n大于4，我们不停的把绳子减去3，来看下代码
 
-```
+```java
 public int cuttingRope(int n) {
     if (n == 2 || n == 3)
         return n - 1;
@@ -65,7 +65,7 @@ public int cuttingRope(int n) {
 
 或者如果不想使用循环，我们还可以使用公式
 
-```
+```java
 public int cuttingRope(int n) {
     if (n == 2 || n == 3)
         return n - 1;
@@ -124,7 +124,7 @@ public int cuttingRope(int n) {
 
 最后再来看下代码
 
-```
+```java
 public int cuttingRope(int n) {
     int[] dp = new int[n + 1];
     dp[1] = 1;
