@@ -31,8 +31,10 @@
 ### 答案：
 
 java的18种写法，之前在公众号[数据结构和算法](https://img-blog.csdnimg.cn/20190515124616751.jpg)中分为3个系列专门写过，这里就不在细写了，我把答案全部列出来，因为太多，我只给一些简单的提示，如果不懂的可以看下前面写的那3个系列，有图文分析
-[364，位1的个数系列（一）](https://mp.weixin.qq.com/s/wd3ZdWPtKS-b_4ReBCyfwQ)
-[364，位1的个数系列（二）](https://mp.weixin.qq.com/s/f_AkvyBXi6sUC9OcU4Kw9g)
+[364，位1的个数系列（一）](https://mp.weixin.qq.com/s/wd3ZdWPtKS-b_4ReBCyfwQ)  
+
+[364，位1的个数系列（二）](https://mp.weixin.qq.com/s/f_AkvyBXi6sUC9OcU4Kw9g)  
+
 [364，位1的个数系列（三）](https://mp.weixin.qq.com/s/3VQ-hTAVAC9uOgP8QSIWOA)
 
 **1，把n往右移32次，每次都和1进行与运算**
