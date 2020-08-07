@@ -139,7 +139,7 @@ public int cuttingRope(int n) {
 
 
 
-![image.png](https://pic.leetcode-cn.com/d56a80459005b444404d2ad6fbaabdabecd2b9ed3cb2cf432e570c315ae2fcf7-image.png)
+![image.png](https://img-blog.csdnimg.cn/20200807155236311.png)
 
 #### [上一题（13. 机器人的运动范围）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer13.md)
 
