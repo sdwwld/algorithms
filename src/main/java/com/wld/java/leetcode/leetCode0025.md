@@ -25,6 +25,8 @@ k 是一个正整数，它的值小于或等于链表的长度。
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（24. 两两交换链表中的节点）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0024.md)
 
 #### [下一题（26. 删除排序数组中的重复项）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0026.md)

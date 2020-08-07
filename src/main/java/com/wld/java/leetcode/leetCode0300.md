@@ -106,4 +106,6 @@ public int lengthOfLIS(int[] nums) {
 
 这题也是比较常见的一道题，动态规划应该说是最好理解的。如果完全搞懂的话，下面的那种解法其实也是比较经典的。
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（299. 猜数字游戏）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0299.md)

@@ -69,6 +69,8 @@ p = "mis*is*p*."
 
 
 
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
+
 #### [上一题（9. 回文数）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0009.md)
 
 #### [下一题（11. 盛最多水的容器）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0011.md)

@@ -67,3 +67,5 @@ public int maxScoreSightseeingPair(int[] A) {
 **总结**
 
 这题没什么难度，主要还是要搞懂这个公式。
+
+![](https://img-blog.csdnimg.cn/20200807155236311.png)
