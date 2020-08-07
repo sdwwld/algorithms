@@ -3,8 +3,6 @@
 #### 历尽千辛万苦终于把剑指offer上的答案全部整理完了，LeetCode上的前300道题也整理的差不多了，并且还整理了其他的一些算法题
 
 <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <p class="copyright text-muted">
             <center> 
                 如果觉得有用就给个star吧 |
                 <iframe
@@ -13,19 +11,11 @@
                     src="https://ghbtns.com/github-btn.html?user=sdwwld&repo=algorithms&type=star&count=true" >
                 </iframe>
             </center>
-        </p>
-    </div>
 </div>
 
 
 
 [1. 两数之和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0001.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
-
-![img](https://ghbtns.com/github-btn.html?user=sdwwld&repo=algorithms&type=star&count=true)
-
-
-
-
 
 [2. 两数相加](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0002.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
