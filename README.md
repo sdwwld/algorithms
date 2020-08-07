@@ -1,5 +1,7 @@
 # leetCode算法题详解
 
+##### 历尽千辛万苦终于把剑指offer上的答案全部整理完了，LeetCode上的前300道题也整理的差不多了，并且还整理了其他的一些算法题，<font color=#FF000 >如果觉得有用就点个start吧。</font>
+
 [1. 两数之和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0001.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [2. 两数相加](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0002.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
