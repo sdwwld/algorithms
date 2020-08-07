@@ -3,14 +3,18 @@
 #### 历尽千辛万苦终于把剑指offer上的答案全部整理完了，LeetCode上的前300道题也整理的差不多了，并且还整理了其他的一些算法题
 
 <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <p class="copyright text-muted">
             <center> 
                 如果觉得有用就给个star吧 |
                 <iframe
                     style="margin-left: 2px; margin-bottom:-5px;"
                     frameborder="0" scrolling="0" width="100px" height="20px"
-                    src="https://ghbtns.com/github-btn.html?user=sdwwld&repo=algorithms&type=star&count=true" 
+                    src="https://ghbtns.com/github-btn.html?user=sdwwld&repo=algorithms&type=star&count=true" >
                 </iframe>
             </center>
+        </p>
+    </div>
 </div>
 
 
