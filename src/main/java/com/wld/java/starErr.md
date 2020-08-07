@@ -10,5 +10,5 @@
 
 # [←返回](https://github.com/sdwwld/algorithms)
 
-
+[![Github stars](https://img.shields.io/github/stars/sdwwld/algorithms?style=social)](https://github.com/sdwwld/algorithms)
 
