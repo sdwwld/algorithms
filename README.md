@@ -10,7 +10,7 @@
                 <iframe
                     style="margin-left: 2px; margin-bottom:-5px;"
                     frameborder="0" scrolling="0" width="100px" height="20px"
-                    src="https://ghbtns.com/github-btn.html?user=sdwwld&repo=module&type=star&count=true" >
+                    src="https://ghbtns.com/github-btn.html?user=sdwwld&repo=algorithms&type=star&count=true" >
                 </iframe>
             </center>
         </p>
@@ -20,6 +20,12 @@
 
 
 [1. 两数之和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0001.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+
+![img](https://ghbtns.com/github-btn.html?user=sdwwld&repo=algorithms&type=star&count=true)
+
+
+
+
 
 [2. 两数相加](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0002.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
