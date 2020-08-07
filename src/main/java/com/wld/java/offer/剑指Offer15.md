@@ -34,9 +34,9 @@ java的18种写法，之前在公众号[数据结构和算法](https://img-blog.
 
 [364，位1的个数系列（一）](https://mp.weixin.qq.com/s/wd3ZdWPtKS-b_4ReBCyfwQ)  
 
-[364，位1的个数系列（二）](https://mp.weixin.qq.com/s/f_AkvyBXi6sUC9OcU4Kw9g)  
+[385，位1的个数系列（二）](https://mp.weixin.qq.com/s/f_AkvyBXi6sUC9OcU4Kw9g)  
 
-[364，位1的个数系列（三）](https://mp.weixin.qq.com/s/3VQ-hTAVAC9uOgP8QSIWOA)
+[402，位1的个数系列（三）](https://mp.weixin.qq.com/s/3VQ-hTAVAC9uOgP8QSIWOA)
 
 **1，把n往右移32次，每次都和1进行与运算**
 
