@@ -1,8 +1,8 @@
 # leetCode算法题详解
 
-历尽千辛万苦终于把剑指offer上的答案全部整理完了，LeetCode上的前300道题也整理的差不多了，并且还整理了其他的一些算法题，如果觉得有用就给个star吧
+历尽千辛万苦终于把剑指offer上的答案全部整理完了，LeetCode上的前300道题也整理的差不多了，并且还整理了其他的一些算法题，**如果觉得有用就给个star吧**
 
-#### [![Github stars](https://img.shields.io/github/stars/sdwwld/algorithms?style=social)](https://github.com/sdwwld/algorithms)
+[![Github stars](https://img.shields.io/github/stars/sdwwld/algorithms?style=social)](https://github.com/sdwwld/algorithms)
 
 <br/>
 
