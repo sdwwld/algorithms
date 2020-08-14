@@ -44,11 +44,9 @@
 - 当exponent大于0的时候要分为两种情况，一种是偶数，一种是奇数。
 
 **1，**如果exponent是偶数我们只需要计算
-
 Power(base*base, exponent/2)。举个例子，比如我们要计算Power（3，8），我们可以改为Power（3\*3，8/2），也就是Power（9，4）。
 
 **2，**如果exponent是奇数，我们只需要计算
-
 base*Power(base\*base, exponent/2)，比如Power（3，9），我们只需要计算3\*Power（3\*3，9/2），也就是3\*Power（9，4）。
 
 <br/>
