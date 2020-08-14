@@ -9,16 +9,30 @@
 输出: [1,2,3,4,5,6,7,8,9]
 ```
 
-
+<br/>
 
 说明：
 
 - 用返回一个整数列表来代替打印
 - n 为正整数
 
-
+<br/>
 
 ### 答案：
+
+直接求出n位数的最大值，然后从1开始打印即可，没什么难度，看下代码
+
+```java
+public int[] printNumbers(int n) {
+    //统计总共需要打印多少个数字
+    int size = (int) Math.pow(10, n) - 1;
+    int[] res = new int[size];
+    for (int i = 0; i < size; i++) {
+        res[i] = i + 1;
+    }
+    return res;
+}
+```
 
 
 
