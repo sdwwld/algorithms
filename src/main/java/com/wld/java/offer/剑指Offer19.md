@@ -60,7 +60,7 @@ p = "mis*is*p*."
 
 **2，动态规划求解**
 
-这题是剑指offer的第19题，难度是困难。我们也可以看下之前写的一道和这题非常类似的一道题[10. 正则表达式匹配](https://github.com/sdwwld/algorithms/blob/master/src/main/java/com/wld/java/leetcode/leetCode0010.md)，今天这题和第10题有一点不同的是，第10题的“\*”可以匹配任意字符串，而这题的“*”表示他前面的字符可以出现任意次（包含0次）。
+这题是剑指offer的第19题，难度是困难。我们也可以看下之前写的一道和这题非常类似的一道题[44. 正通配符匹配](https://github.com/sdwwld/algorithms/blob/master/src/main/java/com/wld/java/leetcode/leetCode0044.md)，今天这题和第44题有一点不同的是，第44题的“\*”可以匹配任意字符串，而这题的“*”表示他前面的字符可以出现任意次（包含0次）。
 
 <br/>
 
