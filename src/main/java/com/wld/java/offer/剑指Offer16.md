@@ -96,7 +96,7 @@ public double myPow(double x, int n) {
 
 
 
-![](https://img-blog.csdnimg.cn/20200807155236311.png)
+[![](https://img-blog.csdnimg.cn/20200807155236311.png)](https://mp.weixin.qq.com/s/0n4xV_MmlPV8oRDvgK4_RQ)
 
 #### [上一题（15. 二进制中1的个数）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer15.md)
 
