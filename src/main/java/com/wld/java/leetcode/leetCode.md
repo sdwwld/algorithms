@@ -478,7 +478,7 @@
 
 [299. 猜数字游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0299.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[300. 最长上升子序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[300. 最长上升子序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [1014. 最佳观光组合](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode1014.md)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
