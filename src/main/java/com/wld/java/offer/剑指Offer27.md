@@ -114,6 +114,7 @@ public TreeNode mirrorTree(TreeNode root) {
 ```
 
 看一下运行结果
+
 ![image.png](https://pic.leetcode-cn.com/ec657da8ebaaea68f37aca1a12c5a1e9d99790898c2c2eee5d14edfaaf5a729f-image.png)
 
 <br/>
