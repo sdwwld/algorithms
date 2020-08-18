@@ -200,7 +200,9 @@ private ListNode reverseListInt(ListNode head, ListNode newHead) {
 }
 ```
 
+参照：
 
+[206. 反转链表](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0206.md)
 
 
 

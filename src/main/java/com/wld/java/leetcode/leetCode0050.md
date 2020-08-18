@@ -29,7 +29,7 @@
 - -100.0 < *x* < 100.0
 - *n* 是 32 位有符号整数，其数值范围是 [−231, 231 − 1] 。
 
-
+<br/>
 
 ### 答案：
 
@@ -89,6 +89,12 @@ public double myPow(double x, int n) {
     return n < 0 ? 1.0 / result : result;
 }
 ```
+
+
+
+参照：
+
+[剑指 Offer 16. 数值的整数次方](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer16.md)
 
 
 

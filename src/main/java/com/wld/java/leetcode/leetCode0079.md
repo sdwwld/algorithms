@@ -163,6 +163,10 @@ boolean dfs(char[][] board, char[] word, int i, int j, int index) {
 }
 ```
 
+参照：
+
+[剑指 Offer 12. 矩阵中的路径](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer12.md)
+
 
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)

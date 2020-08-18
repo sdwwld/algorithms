@@ -336,6 +336,10 @@ private boolean comp(String s, String p) {
 
 
 
+参照：
+
+[10. 正则表达式匹配](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0010.md)
+
 
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)

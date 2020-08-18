@@ -277,6 +277,10 @@ public static int hammingWeight(int num) {
 
 这题如果一直写下去，再写10种也没问题，如果上面的代码你都能看懂，你也会有和我一样的想法。但解这题的最终思路还是没变，所以再写下去也没有太大价值。上面有些写法其实也很鸡肋，这里只是告诉大家这样写也是可以实现的，虽然可能你永远都不这样去写。
 
+参照：
+
+[191. 位1的个数](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0191.md)
+
 
 
 ![image.png](https://img-blog.csdnimg.cn/20200807155236311.png)

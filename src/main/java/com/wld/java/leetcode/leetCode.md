@@ -40,7 +40,7 @@
 
 [20. 有效的括号](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0020.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[21. 合并两个有序链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0021.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[21. 合并两个有序链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0021.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [22. 括号生成](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0022.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
@@ -200,7 +200,7 @@
 
 [100. 相同的树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0100.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[101. 对称二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0101.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[101. 对称二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0101.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [102. 二叉树的层序遍历](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0102.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
@@ -364,7 +364,7 @@
 
 [205. 同构字符串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0205.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[206. 反转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0206.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[206. 反转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0206.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [207. 课程表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0207.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
@@ -404,7 +404,7 @@
 
 [225. 用队列实现栈](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0225.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[226. 翻转二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0226.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[226. 翻转二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0226.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [227. 基本计算器 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0227.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
