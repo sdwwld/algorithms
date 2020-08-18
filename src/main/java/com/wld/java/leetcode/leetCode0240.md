@@ -32,7 +32,7 @@
 当然最容易想到的是暴力求解，就是一个个查找，如果找到就返回true，没找到就返回false，代码很简单，没什么可说的。
 
 ```java
-public boolean findNumberIn2DArray(int[][] matrix, int target) {
+public boolean searchMatrix(int[][] matrix, int target) {
     if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
         return false;
     }
@@ -59,7 +59,7 @@ public boolean findNumberIn2DArray(int[][] matrix, int target) {
 从右上角开始找有个方便的地方就是他左边的都是比他小的，他下边的都是比他大的，如果target大于当前值我们就往下边找，如果target小于当前值我们就往左边找，来看下代码。
 
 ```java
-    public boolean findNumberIn2DArray(int[][] matrix, int target) {
+    public boolean searchMatrix(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
@@ -85,14 +85,10 @@ public boolean findNumberIn2DArray(int[][] matrix, int target) {
     }
 ```
 
-看一下运行结果，击败了100%的用户
-
-![image.png](https://pic.leetcode-cn.com/cfa834796c8d8c7f1ccc9501d778da35cf2c78f43426fce0f56a0c5c9d7de699-image.png)
-
 当然从左下角查找也是可以的，因为左下角右边的值是比他大的，上边的值是比他小的，也能区分，代码和上面差不多，来看下
 
 ```java
-    public boolean findNumberIn2DArray(int[][] matrix, int target) {
+    public boolean searchMatrix(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
