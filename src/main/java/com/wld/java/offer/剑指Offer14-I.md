@@ -86,6 +86,8 @@ public int cuttingRope(int n) {
 
 ![image.png](https://pic.leetcode-cn.com/c3f8914cecf9fa10bf475439d5a40ae618a88e21b776fdcf930e98690629db99-image.png)
 
+<br/>
+
 #### 2，动态规划
 
 定义一个数组dp，其中dp[i]表示的是长度为i的绳子能得到的最大乘积。我们先把长度为i的绳子拆成两部分，一部分是j，另一部分是i-j，那么会有下面4种情况
