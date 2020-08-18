@@ -152,6 +152,7 @@ public TreeNode mirrorTree(TreeNode root) {//DFS
 ```
 
 看一下运行结果，这种效率就差了很多
+
 ![image.png](https://pic.leetcode-cn.com/a88825af8bace93e41f63ba5c841ef10a793a86bd08e4ed04118368bfb62be29-image.png)
 
 <br/>
@@ -240,6 +241,7 @@ public TreeNode mirrorTree(TreeNode root) {
 ```
 
 看下运行结果
+
 ![image.png](https://pic.leetcode-cn.com/f8c92e4b9e01fb5cffa4e6c1fd0de38fa85101c3969e8bdae0b9c89515dfc19a-image.png)
 
 再来看一个后续遍历的
