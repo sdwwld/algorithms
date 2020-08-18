@@ -138,7 +138,7 @@
 
 [69. x 的平方根](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0069.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[70. 爬楼梯](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0070.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[70. 爬楼梯](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0070.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [71. 简化路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0071.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
@@ -306,7 +306,7 @@
 
 [153. 寻找旋转排序数组中的最小值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0153.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[154. 寻找旋转排序数组中的最小值 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0154.md>)（困难）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[154. 寻找旋转排序数组中的最小值 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0154.md>)【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [155. 最小栈](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0155.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
