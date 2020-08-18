@@ -42,7 +42,7 @@
 
 [剑指 Offer 22. 链表中倒数第k个节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer22.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 24. 反转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer24.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 24. 反转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer24.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [剑指 Offer 25. 合并两个排序的链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer25.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 

@@ -2,6 +2,8 @@
 
 定义一个函数，输入一个链表的头节点，反转该链表并输出反转后链表的头节点。
 
+<br/>
+
 **示例:**
 
 ```
@@ -9,13 +11,13 @@
 输出: 5->4->3->2->1->NULL
 ```
 
-
+<br/>
 
 **限制：**
 
 0 <= 节点个数 <= 5000
 
-
+<br/>
 
 ### 答案：
 
@@ -56,7 +58,7 @@ public ListNode reverseList(ListNode head) {
 
 ![image.png](https://pic.leetcode-cn.com/61ab35de52b929293965ce82a8c2debdf8a7a0d5b9ea18561391174a4a82b14a-image.png)
 
-
+<br/>
 
 #### 2，双链表求解
 
@@ -93,6 +95,8 @@ public ListNode reverseList(ListNode head) {
 看下运行结果
 
 ![image.png](https://pic.leetcode-cn.com/c1f1b2e055a8f35fb79329e71b32ff1a8d8b62568696b0f866960bc79e2af511-image.png)
+
+<br/>
 
 #### 3，递归解决
 
