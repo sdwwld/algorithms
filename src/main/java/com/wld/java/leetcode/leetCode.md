@@ -214,7 +214,7 @@
 
 [108. 将有序数组转换为二叉搜索树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0108.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[109. 有序链表转换二叉搜索树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0109.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[109. 有序链表转换二叉搜索树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0109.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [110. 平衡二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0110.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
