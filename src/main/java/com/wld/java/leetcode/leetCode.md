@@ -66,7 +66,7 @@
 
 [33. 搜索旋转排序数组](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0033.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[34. 在排序数组中查找元素的第一个和最后一个位置](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0034.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[34. 在排序数组中查找元素的第一个和最后一个位置](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0034.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [35. 搜索插入位置](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0035.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
@@ -124,7 +124,7 @@
 
 [62. 不同路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0062.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[63. 不同路径 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0063.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[63. 不同路径 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0063.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [64. 最小路径和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0064.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
