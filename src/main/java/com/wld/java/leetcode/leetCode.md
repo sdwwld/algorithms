@@ -42,7 +42,7 @@
 
 [21. 合并两个有序链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0021.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[22. 括号生成](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0022.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[22. 括号生成](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0022.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [23. 合并K个排序链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0023.md>)（困难）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
