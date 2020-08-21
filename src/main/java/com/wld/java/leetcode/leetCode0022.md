@@ -29,8 +29,6 @@
 
 **2，括号组合中任何位置左括号的数量都是大于等于右括号的数量**
 
-
-
 第一条很容易理解，我们来看第二条，比如有效括号"(())()"，在任何一个位置右括号的数量都不大于左括号的数量，所以他是有效的。如果像这样"())()"第3个位置的是右括号，那么他前面只有一个左括号，而他和他前面的右括号有2个，所以无论如何都不能组合成有效的括号。搞懂了上面的原理，我们就以n等于2为例来画个图看一下
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBEfzz7jugGEQwZmQ93H5TDkMfz27a0mLocv2ia3RjsGgasOuh9m4L45FscKLfMXtuZeV2Ov8kngZGg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
@@ -96,7 +94,7 @@ private void dfs(List<String> res, int left, int right, String curStr) {
 }
 ```
 
-
+<br/>
 
 #### 2，动态规划
 
@@ -165,7 +163,7 @@ public static void main(String args[]) {
 [()()(), ()(()), (())(), (()()), ((()))]
 ```
 
-
+<br/>
 
 #### 3，动态规划改递归
 
@@ -219,7 +217,7 @@ public static List<String> generateParenthesis(int n) {
 }
 ```
 
-
+<br/>
 
 #### 4，总结
 
