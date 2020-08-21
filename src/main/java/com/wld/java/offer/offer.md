@@ -52,19 +52,19 @@
 
 [剑指 Offer 28. 对称的二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer28.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 29. 顺时针打印矩阵](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer29.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 29. 顺时针打印矩阵](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer29.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 30. 包含min函数的栈](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer30.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 30. 包含min函数的栈](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer30.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 31. 栈的压入、弹出序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer31.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 31. 栈的压入、弹出序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer31.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 32 - I. 从上到下打印二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-I.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 32 - I. 从上到下打印二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-I.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 32 - II. 从上到下打印二叉树 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 32 - II. 从上到下打印二叉树 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 32 - III. 从上到下打印二叉树 III](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-III.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 32 - III. 从上到下打印二叉树 III](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-III.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 33. 二叉搜索树的后序遍历序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer33.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 33. 二叉搜索树的后序遍历序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer33.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [剑指 Offer 34. 二叉树中和为某一值的路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer34.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 

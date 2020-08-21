@@ -32,7 +32,29 @@ push(5), pop() -> 5, pop() -> 3, pop() -> 2, pop() -> 1
 
 ### 答案：
 
+这题主要考察对栈的理解，**栈是一种先进后出的数据结构**，如果栈顶元素不出栈，那么栈顶元素下面的元素都是不能出栈的。
 
+一种解决方式就是```把pushed数组的元素逐个压栈，当栈顶元素等于popped数组中第一个元素的时候，就让栈顶元素出栈，这个时候再用popped数组的第2个元素和栈顶元素比较，如果相同继续出栈……```，最后判断栈是否为空即可，来看下代码
+
+```java
+public boolean validateStackSequences(int[] pushed, int[] popped) {
+    Stack<Integer> stack = new Stack<>();
+    int index = 0;
+    for (int val : pushed) {
+        //pushed数组中的元素逐个压栈
+        stack.push(val);
+        while (!stack.empty() && stack.peek() == popped[index]) {
+            stack.pop();
+            index++;
+        }
+    }
+    return stack.empty();
+}
+```
+
+
+
+<br/>
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
