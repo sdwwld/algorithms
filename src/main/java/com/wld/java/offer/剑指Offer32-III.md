@@ -163,6 +163,14 @@ private void travel(TreeNode cur, List<List<Integer>> res, int level) {
 
 
 
+参照：
+
+[剑指 Offer 32. 从上到下打印二叉树-I](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-I.md)
+
+[剑指 Offer 32. 从上到下打印二叉树-II](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)
+
+[103. 二叉树的锯齿形层次遍历](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0103.md)
+
 
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)

@@ -114,6 +114,12 @@ public void levelHelper(List<List<Integer>> list, TreeNode root, int level) {
 
 
 
+参照：
+
+[剑指 Offer 32. 从上到下打印二叉树-I](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-I.md)
+
+[剑指 Offer 32. 从上到下打印二叉树-III](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-III.md)
+
 
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)

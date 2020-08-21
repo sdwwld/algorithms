@@ -109,6 +109,8 @@ class ListNode {
 
 ![image.png](https://pic.leetcode-cn.com/1597976604-AvASRD-image.png)
 
+<br/>
+
 上面解决方式是使用一个辅助的类，实际上如果使用辅助类，我们也可以使用官方提供的栈，像下面这样。
 
 ```java
@@ -301,7 +303,9 @@ class MinStack {
 }
 ```
 
+参照：
 
+[155. 最小栈](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0155.md)
 
 
 

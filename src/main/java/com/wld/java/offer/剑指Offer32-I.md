@@ -111,9 +111,11 @@ public void levelHelper(List<List<Integer>> list, TreeNode root, int height) {
 
 ![image.png](https://pic.leetcode-cn.com/1597977429-mQumDo-image.png)
 
+参照：
 
+[剑指 Offer 32. 从上到下打印二叉树-II](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-II.md)
 
-
+[剑指 Offer 32. 从上到下打印二叉树-III](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer32-III.md)
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
