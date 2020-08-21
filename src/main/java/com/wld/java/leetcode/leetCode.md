@@ -20,7 +20,7 @@
 
 [10. 正则表达式匹配](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0010.md>)（困难）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[11. 盛最多水的容器](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0011.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[11. 盛最多水的容器](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0011.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [12. 整数转罗马数字](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0012.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
