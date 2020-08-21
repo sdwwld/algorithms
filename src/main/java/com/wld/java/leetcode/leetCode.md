@@ -122,7 +122,7 @@
 
 [61. 旋转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0061.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[62. 不同路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0062.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[62. 不同路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0062.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [63. 不同路径 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0063.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
