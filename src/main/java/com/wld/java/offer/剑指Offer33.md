@@ -2,7 +2,7 @@
 
 输入一个整数数组，判断该数组是不是某二叉搜索树的后序遍历结果。如果是则返回 `true`，否则返回 `false`。假设输入的数组的任意两个数字都互不相同。
 
-
+<br/>
 
 参考以下这颗二叉搜索树：
 
@@ -28,13 +28,13 @@
 输出: true
 ```
 
-
+<br/>
 
 **提示：**
 
 1. 数组长度 <= 1000
 
-
+<br/>
 
 ### 答案：
 
@@ -94,7 +94,7 @@ boolean helper(int[] postorder, int left, int right) {
 
 ![image.png](https://pic.leetcode-cn.com/1597978779-vvoFlp-image.png)
 
-
+<br/>
 
 #### 2，使用栈解决
 
