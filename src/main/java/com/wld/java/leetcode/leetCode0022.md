@@ -169,15 +169,15 @@ public static void main(String args[]) {
 
 我们看到上面动态规划中核心代码是dp[m]和dp[k]的组合，而dp[m]和dp[k]分别表示的是n等于m和k的时候有效括号的组合，所以如果函数
 
-**List<String> generateParenthesis(int n)**
+**List\<String> generateParenthesis(int n)**
 
 表示的是n对有效括号的组合，那么
 
-**List<String> generateParenthesis(int m)**
+**List\<String> generateParenthesis(int m)**
 
 和
 
-**List<String> generateParenthesis(int k)**
+**List\<String> generateParenthesis(int k)**
 
 分别表示的是m对和k对有效括号的组合，所以上面的核心代码我们可以这样改
 
