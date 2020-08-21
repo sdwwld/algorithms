@@ -2,7 +2,7 @@
 
 输入两个整数序列，第一个序列表示栈的压入顺序，请判断第二个序列是否为该栈的弹出顺序。假设压入栈的所有数字均不相等。例如，序列 {1,2,3,4,5} 是某栈的压栈序列，序列 {4,5,3,2,1} 是该压栈序列对应的一个弹出序列，但 {4,3,5,1,2} 就不可能是该压栈序列的弹出序列。
 
-
+<br/>
 
 **示例 1：**
 
@@ -22,13 +22,15 @@ push(5), pop() -> 5, pop() -> 3, pop() -> 2, pop() -> 1
 解释：1 不能在 2 之前弹出。
 ```
 
+<br/>
+
 **提示：**
 
 1. 0 <= pushed.length == popped.length <= 1000
 2. 0 <= pushed[i], popped[i] < 1000
 3. pushed 是 popped 的排列。。
 
-
+<br/>
 
 ### 答案：
 
@@ -52,9 +54,9 @@ public boolean validateStackSequences(int[] pushed, int[] popped) {
 }
 ```
 
-
-
 <br/>
+
+
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
