@@ -126,7 +126,7 @@
 
 [剑指 Offer 58 - II. 左旋转字符串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer58-II.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[剑指 Offer 59 - I. 滑动窗口的最大值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer59-I.md>)（简单）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[剑指 Offer 59 - I. 滑动窗口的最大值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer59-I.md>)（简单）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [剑指 Offer 59 - II. 队列的最大值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer59-II.md>)（中等）**（未完）**【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 

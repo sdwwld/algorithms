@@ -224,7 +224,7 @@
 
 [112. 路径总和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0112.md>)（简单）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[113. 路径总和 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0113.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[113. 路径总和 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0113.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [114. 二叉树展开为链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0114.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
@@ -430,7 +430,7 @@
 
 [238. 除自身以外数组的乘积](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0238.md>)（中等）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
-[239. 滑动窗口最大值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0239.md>)（困难）（**未完**）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
+[239. 滑动窗口最大值](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0239.md>)（困难）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
 [240. 搜索二维矩阵 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0240.md>)（中等）【贡献者：[数据结构和算法](https://leetcode-cn.com/u/sdwwld)】
 
