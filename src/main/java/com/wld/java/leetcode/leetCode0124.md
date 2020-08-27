@@ -30,7 +30,7 @@
 输出: 42
 ```
 
-
+<br/>
 
 ### 答案：
 
@@ -42,19 +42,19 @@
 
 
 
-1，**只要当前节点，舍弃子节点**。比如下面结点2的左右子节点都是负数，如果是负数我们还不如不要，所以直接舍弃子节点。
+**1，只要当前节点，舍弃子节点**。比如下面结点2的左右子节点都是负数，如果是负数我们还不如不要，所以直接舍弃子节点。
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH8ia3xUiclpDfQoIwXmy8kw5KzYuVGGsSly2pV4jQV3KVtQv2QvqVCB1cotC2p5QjTvnvoWZn9F5IA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-2，**保留当前节点和左子节点**。比如下面结点2的右子节点是负数，我们直接舍弃右子节点，但左子节点不是负数，我们可以保留左子节点。
+**2，保留当前节点和左子节点**。比如下面结点2的右子节点是负数，我们直接舍弃右子节点，但左子节点不是负数，我们可以保留左子节点。
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH8ia3xUiclpDfQoIwXmy8kw5cF3KsExgD9Ivqx6ltqeHSSFGic7LIbmX9VKAyRloP39lRXLyp7jM4bw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-3，**保留当前节点和右子节点**。比如下面结点2的左子节点是负数，我们直接舍弃左子节点，但右子节点不是负数，我们可以保留右子节点。
+**3，保留当前节点和右子节点**。比如下面结点2的左子节点是负数，我们直接舍弃左子节点，但右子节点不是负数，我们可以保留右子节点。
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH8ia3xUiclpDfQoIwXmy8kw59icdz63jkaoWvcia8IiaOFRFPCTibCmicobiazV1pIW7UHrAicZmicick4hdEZg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-4，**保留当前节点和两个子节点**。比如下面结点2的左右子节点都不是负数，我们都可以留下。
+**4，保留当前节点和两个子节点**。比如下面结点2的左右子节点都不是负数，我们都可以留下。
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH8ia3xUiclpDfQoIwXmy8kw5JdwbgnYwGkiclXiaq4QboIjYPfMVckHCX3xq5Ig6IPCbLWOmN2d0vrxw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
