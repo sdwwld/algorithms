@@ -8,13 +8,7 @@
 
 [4. 寻找两个正序数组的中位数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0004.md>)（困难）
 
-[5. 最长回文子串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md>)（中等）**（未完）**
-
-[6. Z 字形变换](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0006.md>)（中等）**（未完）**
-
 [7. 整数反转](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0007.md>)（简单）
-
-[8. 字符串转换整数 (atoi)](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0008.md>)（中等）**（未完）**
 
 [9. 回文数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0009.md>)（简单）**（未完）**
 
@@ -481,6 +475,8 @@
 [299. 猜数字游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0299.md>)（简单）（**未完**）
 
 [300. 最长上升子序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0300.md>)（中等）
+
+[941. 有效的山脉数组](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0941.md)（简单）
 
 [1014. 最佳观光组合](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode1014.md)（中等）
 
