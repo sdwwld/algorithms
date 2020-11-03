@@ -252,7 +252,7 @@
 
 [129. 求根到叶子节点数字之和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0129.md>)（中等）（**未完**）
 
-[130. 被围绕的区域](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0130.md>)（中等）（**未完**）
+[130. 被围绕的区域](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0130.md>)（中等）
 
 [131. 分割回文串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0131.md>)（中等）（**未完**）
 
