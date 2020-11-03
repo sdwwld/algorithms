@@ -12,6 +12,10 @@
   - A[0] < A[1] < ... A[i-1] < A[i]
   - A[i] > A[i+1] > ... > A[A.length - 1]
 
+
+
+
+
 ![img](https://assets.leetcode.com/uploads/2019/10/20/hint_valid_mountain_array.png)
 
 **示例 1：**
