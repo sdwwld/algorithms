@@ -214,9 +214,9 @@
 
 [110. 平衡二叉树](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0110.md>)（简单）（**未完**）
 
-[111. 二叉树的最小深度](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0111.md>)（简单）
+[111. 二叉树的最小深度](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0111.md)（简单）
 
-[112. 路径总和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0112.md>)（简单）（**未完**）
+[112. 路径总和](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0112.md)（简单）
 
 [113. 路径总和 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0113.md>)（中等）
 
