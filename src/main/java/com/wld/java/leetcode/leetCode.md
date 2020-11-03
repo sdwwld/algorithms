@@ -276,7 +276,7 @@
 
 [141. 环形链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0141.md>)（简单）（**未完**）
 
-[142. 环形链表 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0142.md>)（中等）（**未完**）
+[142. 环形链表 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0142.md>)（中等）
 
 [143. 重排链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0143.md>)（中等）（**未完**）
 
