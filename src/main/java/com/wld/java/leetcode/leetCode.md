@@ -232,7 +232,7 @@
 
 [119. 杨辉三角 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0119.md>)（简单）（**未完**）
 
-[120. 三角形最小路径和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0120.md>)（中等）（**未完**）
+[120. 三角形最小路径和](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0120.md)（中等）
 
 [121. 买卖股票的最佳时机](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0121.md>)（简单）（**未完**）
 
