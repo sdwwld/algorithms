@@ -416,7 +416,7 @@
 
 [234. 回文链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0234.md>)（简单）
 
-[235. 二叉搜索树的最近公共祖先](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0235.md>)（简单）（**未完**）
+[235. 二叉搜索树的最近公共祖先](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0235.md>)（简单）
 
 [236. 二叉树的最近公共祖先](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0236.md>)（中等）
 
