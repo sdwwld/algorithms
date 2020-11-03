@@ -102,7 +102,7 @@
 
 [54. 螺旋矩阵](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0054.md>)（中等）**（未完）**
 
-[55. 跳跃游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0055.md>)（中等）**（未完）**
+[55. 跳跃游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0055.md>)（中等）
 
 [56. 合并区间](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0056.md>)（中等）**（未完）**
 
