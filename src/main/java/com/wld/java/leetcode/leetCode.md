@@ -146,7 +146,7 @@
 
 [76. 最小覆盖子串](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0076.md>)（困难）**（未完）**
 
-[77. 组合](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0077.md>)（中等）**（未完）**
+[77. 组合](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0077.md>)（中等）
 
 [78. 子集](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0078.md>)（中等）
 
