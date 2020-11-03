@@ -30,7 +30,7 @@
 
 [18. 四数之和](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0018.md>)（中等）**（未完）**
 
-[19. 删除链表的倒数第N个节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0019.md>)（中等）**（未完）**
+[19. 删除链表的倒数第N个节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0019.md>)（中等）
 
 [20. 有效的括号](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0020.md>)（简单）**（未完）**
 
