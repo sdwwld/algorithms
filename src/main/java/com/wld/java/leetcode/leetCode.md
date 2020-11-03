@@ -224,9 +224,9 @@
 
 [115. 不同的子序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0115.md>)（困难）（**未完**）
 
-[116. 填充每个节点的下一个右侧节点指针](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0116.md>)（中等）（**未完**）
+[116. 填充每个节点的下一个右侧节点指针](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0116.md>)（中等）
 
-[117. 填充每个节点的下一个右侧节点指针 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0117.md>)（中等）（**未完**）
+[117. 填充每个节点的下一个右侧节点指针 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0117.md>)（中等）
 
 [118. 杨辉三角](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0118.md>)（简单）（**未完**）
 
