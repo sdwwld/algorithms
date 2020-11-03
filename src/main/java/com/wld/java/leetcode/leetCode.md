@@ -432,7 +432,7 @@
 
 [242. 有效的字母异位词](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0242.md>)（简单）（**未完**）
 
-[257. 二叉树的所有路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0257.md>)（简单）（**未完**）
+[257. 二叉树的所有路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0257.md>)（简单）
 
 [258. 各位相加](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0258.md>)（简单）（**未完**）
 
