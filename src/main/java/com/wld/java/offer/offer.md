@@ -102,7 +102,7 @@
 
 [剑指 Offer 51. 数组中的逆序对](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer51.md>)（困难）**（未完）**
 
-[剑指 Offer 52. 两个链表的第一个公共节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer52.md>)（简单）**（未完）**
+[剑指 Offer 52. 两个链表的第一个公共节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer52.md>)（简单）
 
 [剑指 Offer 53 - I. 在排序数组中查找数字 I](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer53-I.md>)（简单）**（未完）**
 
