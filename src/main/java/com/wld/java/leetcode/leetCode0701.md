@@ -62,6 +62,8 @@
 
 然后再继续执行上面的操作，直到找到叶子节点为止，然后再把它插进去，就以题中示例为例画个图来看一下
 
+![](/img/leetcode/0701/640.png)
+
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBHSke9x4b90LyCTvwR1oMN3biafia9YOQ8W6aoZ9dNjDicmj1Bw5aBLKszcWZ14ClCFUQdp5a6ZsLguQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
