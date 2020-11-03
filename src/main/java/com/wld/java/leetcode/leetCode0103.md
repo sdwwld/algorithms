@@ -167,6 +167,4 @@ private void travel(TreeNode cur, List<List<Integer>> res, int level) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（102. 二叉树的层序遍历）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0102.md)
-
-#### [下一题（104. 二叉树的最大深度）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0104.md)
+#### 

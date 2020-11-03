@@ -88,6 +88,3 @@ public int reverse(int x) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（6. Z 字形变换）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0006.md)
-
-#### [下一题（8. 字符串转换整数 (atoi)）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0008.md)

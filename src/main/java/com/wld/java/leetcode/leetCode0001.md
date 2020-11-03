@@ -98,5 +98,4 @@ class Solution {
 
  ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-####   [下一题（2. 两数相加）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0002.md)
-
+####   

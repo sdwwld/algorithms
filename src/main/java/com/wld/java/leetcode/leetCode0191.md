@@ -294,6 +294,4 @@ public static int hammingWeight(int num) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（190. 颠倒二进制位）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0190.md)
-
-#### [下一题（198. 打家劫舍）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0198.md)
+#### 

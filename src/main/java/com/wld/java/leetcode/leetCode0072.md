@@ -198,6 +198,4 @@ public static int minDistance2(String word1, String word2) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（71. 简化路径）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0071.md)
-
-#### [下一题（73. 矩阵置零）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0073.md)
+#### 

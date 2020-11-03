@@ -187,6 +187,4 @@ public int uniquePaths(int m, int n) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（61. 旋转链表）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0061.md)
-
-#### [下一题（63. 不同路径 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0063.md)
+#### 

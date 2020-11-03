@@ -171,6 +171,4 @@ boolean dfs(char[][] board, char[] word, int i, int j, int index) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（78. 子集）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0078.md)
-
-#### [下一题（80. 删除排序数组中的重复项 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0080.md)
+#### 

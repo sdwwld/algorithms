@@ -162,6 +162,4 @@ public static int searchLast(int[] nums, double target) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（33. 搜索旋转排序数组）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0033.md)
-
-#### [下一题（35. 搜索插入位置）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0035.md)
+#### 

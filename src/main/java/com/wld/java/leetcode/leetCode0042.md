@@ -223,6 +223,4 @@ public int trap(int[] height) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（41. 缺失的第一个正数）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0041.md)
-
-#### [下一题（43. 字符串相乘）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0043.md)
+#### 

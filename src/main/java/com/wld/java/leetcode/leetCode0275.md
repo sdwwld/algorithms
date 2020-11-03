@@ -41,6 +41,4 @@ h 指数的定义: “h 代表“高引用次数”（high citations），一名
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（274. H 指数）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0274.md)
-
-#### [下一题（278. 第一个错误的版本）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0278.md)
+#### 

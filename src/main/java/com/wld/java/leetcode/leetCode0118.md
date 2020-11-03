@@ -28,6 +28,4 @@
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（117. 填充每个节点的下一个右侧节点指针 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0117.md)
-
-#### [下一题（119. 杨辉三角 II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0119.md)
+#### 

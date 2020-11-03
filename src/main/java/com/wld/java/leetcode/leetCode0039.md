@@ -199,6 +199,4 @@ private static void getResult(List<List<Integer>> result, List<Integer> cur, int
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（38. 外观数列）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0038.md)
-
-#### [下一题（40. 组合总和 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0040.md)
+#### 

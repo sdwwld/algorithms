@@ -55,6 +55,4 @@ for (int i = 0; i < len; i++) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（26. 删除排序数组中的重复项）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0026.md)
-
-#### [下一题（28. 实现 strStr()）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0028.md)
+#### 

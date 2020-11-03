@@ -27,6 +27,4 @@
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（103. 二叉树的锯齿形层次遍历）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0103.md)
-
-#### [下一题（105. 从前序与中序遍历序列构造二叉树）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0105.md)
+#### 

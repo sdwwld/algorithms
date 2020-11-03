@@ -51,6 +51,4 @@ for (int i = 0; i < len; i++) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（25. K 个一组翻转链表）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0025.md)
-
-#### [下一题（27. 移除元素）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0027.md)
+#### 
