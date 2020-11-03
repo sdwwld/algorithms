@@ -274,7 +274,7 @@
 
 [140. 单词拆分 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0140.md>)（困难）（**未完**）
 
-[141. 环形链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0141.md>)（简单）（**未完**）
+[141. 环形链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0141.md>)（简单）
 
 [142. 环形链表 II](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0142.md>)（中等）
 
