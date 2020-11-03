@@ -90,7 +90,7 @@
 
 [48. 旋转图像](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0048.md>)（中等）**（未完）**
 
-[49. 字母异位词分组](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0049.md>)（中等）**（未完）**
+[49. 字母异位词分组](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0049.md>)（中等）
 
 [50. Pow(x, n)](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0050.md>)（中等）
 
