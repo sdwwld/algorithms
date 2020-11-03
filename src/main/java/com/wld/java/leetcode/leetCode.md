@@ -414,7 +414,7 @@
 
 [233. 数字 1 的个数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0233.md>)（困难）（**未完**）
 
-[234. 回文链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0234.md>)（简单）（**未完**）
+[234. 回文链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0234.md>)（简单）
 
 [235. 二叉搜索树的最近公共祖先](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0235.md>)（简单）（**未完**）
 
