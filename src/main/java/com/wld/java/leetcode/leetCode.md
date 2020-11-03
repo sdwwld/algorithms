@@ -40,7 +40,7 @@
 
 [23. 合并K个排序链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0023.md>)（困难）**（未完）**
 
-[24. 两两交换链表中的节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0024.md>)（中等）**（未完）**
+[24. 两两交换链表中的节点](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0024.md>)（中等）
 
 [25. K 个一组翻转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0025.md>)（困难）**（未完）**
 
