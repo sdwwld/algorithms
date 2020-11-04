@@ -52,7 +52,7 @@
 
 这题上面说了一大堆，其实就是在一个二维数组中从任一位置开始，可以往他的上下左右4个方向走，然后返回走过的路线中值最大的，0其实就相当于障碍物，不能往位置为0的地方走，画个简单的图看一下
 
-![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode/1219/640.png)
+![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode1/1219/640.png)
 
 我们需要遍历每一个位置，从任何一个位置开始找到最大路径，所以代码大致轮廓如下
 
