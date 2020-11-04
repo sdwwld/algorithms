@@ -486,6 +486,8 @@
 
 [701. 二叉搜索树中的插入操作](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0701.md)（中等）
 
+[718. 最长重复子数组](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0718.md)（中等）
+
 [941. 有效的山脉数组](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0941.md)（简单）
 
 [1014. 最佳观光组合](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode1014.md)（中等）
