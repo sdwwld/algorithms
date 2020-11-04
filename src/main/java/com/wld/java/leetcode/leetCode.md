@@ -480,6 +480,8 @@
 
 [617. 合并二叉树](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0617.md)（简单）
 
+[695. 岛屿的最大面积](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0695.md)（中等）
+
 [701. 二叉搜索树中的插入操作](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0701.md)（中等）
 
 [941. 有效的山脉数组](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0941.md)（简单）
