@@ -27,9 +27,9 @@
 
 **提示：**
 
-- `1 <= nums.length <= 10^5`
-- `-10^4 <= nums[i] <= 10^4`
-- `1 <= k <= nums.length`
+- 1 <= nums.length <= 10^5
+- -10^4 <= nums[i] <= 10^4
+- 1 <= k <= nums.length
 
 <br/>
 
@@ -39,7 +39,7 @@
 
 最简单的一种方式就是**暴力求解**，原理其实很简单，就是窗口在往右滑动的过程中，每滑动一步就计算窗口内最大的值，就以上面的数据画个图来看下
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBEvW6KyweVvolKhjqeCiaaEKMQ0sV3PicgibmzJk2pZibOOEIwaapf77CGyI3odz8GPMzcVjtz1wcv2Bw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode/0239/640.png)
 
 代码比较简单，直接看下
 
@@ -61,6 +61,32 @@ public int[] maxSlidingWindow(int[] nums, int k) {
 }
 ```
 
+如果看过之前讲的[378，数据结构-7,堆](http://mp.weixin.qq.com/s?__biz=MzU0ODMyNDk0Mw==&mid=2247487143&idx=1&sn=293a762267e087032c8d6a6f5bdd8d13&chksm=fb419d87cc361491db965c4db6e6f3c187fe63e4aa80e03f6baf2716ed4f983b4d687dab747d&scene=21#wechat_redirect)我们还可以使用堆来解决，这里可以使用最大堆，堆顶的元素是最大的，因为这题求的就是窗口内的最大值，堆的大小就是窗口的大小。因为堆的每次删除和添加都会涉及到往下调整和往上调整，所以效率一般不是很高，也可以看下，这里就是用PriorityQueue来代替堆
+
+```java
+public int[] maxSlidingWindow(int[] nums, int k) {
+    //边界条件的判断
+    if (nums == null || k <= 0)
+        return new int[0];
+    int[] res = new int[nums.length - k + 1];
+    int index = 0;
+    //优先队列
+    PriorityQueue<Integer> queue = new PriorityQueue<>((t1, t2) -> t2 - t1);
+    for (int i = 0; i < nums.length; i++) {
+        //元素添加到堆中
+        queue.add(nums[i]);
+        //如果堆的大小大于k，把最先加入的元素给移除
+        if (queue.size() > k)
+            queue.remove(nums[i - k]);
+        if (i >= k - 1) {
+            //把堆顶元素加入到数组中
+            res[index++] = queue.peek();
+        }
+    }
+    return res;
+}
+```
+
 <br/>
 
 #### 2，双端队列求解
@@ -71,11 +97,11 @@ public int[] maxSlidingWindow(int[] nums, int k) {
 
 使用双端队列首先要搞懂一个问题，就是**在双端队列中，要始终保证队头是队列中最大的值**。那怎么保证呢，就是在添加一个值之前，比他小的都要被移除掉，然后再添加这个值。我们举个例子，比如窗口大小是3，双端队列中依次添加3个值[4,2,5]，在添加5之前我们要把4和2给移除，让队列中只有一个5，因为窗口是往由滑动的，当添加5的时候，4和2都不可能再成为最大值了，并且4和2要比5还先出队列，搞懂了上面的过程我们随便画个图看下
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH3GEW04dibmpxvBicUSyib4Lv092OPMhTTArFv3r8ic4X7fY19KjHf2Ihp6mXz9SNAxViaNH4lg9ghfgg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode/0239/641.png)
 
 搞懂了上面的过程代码就很容易写了，再看代码之前先来看一下双端队列常用的几个函数
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH3GEW04dibmpxvBicUSyib4Lvg8S019uI3OFlQereFk5PQ7UiatbFm6pDRznUYl0xs1BoQib1mWDnpzRw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode/0239/642.png)
 
 代码如下
 
@@ -120,15 +146,15 @@ public int[] maxSlidingWindow(int[] nums, int k) {
 
 这个不太容易想到，就是根据窗口大小把数组分成n个窗口，每个窗口分别从左往右和从右往左扫描，记录扫描的最大值，就像下面这样
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH3GEW04dibmpxvBicUSyib4LvHaJE2AMoUUrRlIlSro90yQWr9ZibIoviakmavT8h9StQt75X0qWmumpA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode/0239/643.png)
 
 窗口分好之后一个从前往后扫描一个从后往前扫描，记录每个窗口扫描的最大值。我们取窗口内的最大值的时候，如果窗口在原数组中开始的下标正好是k的倍数，比如下面这样，他的最大值很容易找
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH3GEW04dibmpxvBicUSyib4LvAjMmF3BqraQ3sSZWYs6I9HDZia5xLpVETs4ulIXEP7TGHxc8WxUeDKQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode/0239/644.png)
 
 但如果窗口滑动到下面这种情况下
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/PGmTibd8KQBH3GEW04dibmpxvBicUSyib4LvJkQ0ibX0QnxH2sH7uhSuNqUENzaOR7Picw8YHhm0lZ8MCO3nXAtyDv7A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://raw.githubusercontent.com/sdwwld/algorithms/master/img/leetcode/0239/645.png)
 
 如果要找这个窗口的最大值，我们就要选窗口内从左边扫描最后一个和从右边扫描最后一个（窗口内从左边数第一个）的最大值，也就是下面这样
 
@@ -170,6 +196,14 @@ public int[] maxSlidingWindow(int[] nums, int k) {
 }
 ```
 
+<br>
+
+#### 4，总结
+
+滑动窗口题，第一种暴力求解一般都能想到，但效率很差，最常见的就是第2种使用双端队列，第3种方式效率也挺高的，但一般不太容易想到。
+
+<br>
+
 参照
 
 [剑指 Offer 59. 滑动窗口的最大值-I](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer59-I.md)
@@ -180,4 +214,3 @@ public int[] maxSlidingWindow(int[] nums, int k) {
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### 
