@@ -478,6 +478,8 @@
 
 [392. 判断子序列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0392.md>)（简单）
 
+[450. 删除二叉搜索树中的节点](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0450.md)（中等）
+
 [495. 提莫攻击](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0495.md)（中等）
 
 [617. 合并二叉树](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0617.md)（简单）
