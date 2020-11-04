@@ -470,7 +470,7 @@
 
 [295. 数据流的中位数](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0295.md>)（困难）（**未完**）
 
-[297. 二叉树的序列化与反序列化](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0297.md>)（困难）（**未完**）
+[297. 二叉树的序列化与反序列化](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0297.md>)（困难）
 
 [299. 猜数字游戏](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0299.md>)（简单）（**未完**）
 
