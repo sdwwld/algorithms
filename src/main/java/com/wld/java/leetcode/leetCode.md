@@ -114,7 +114,7 @@
 
 [60. 第k个排列](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0060.md>)（中等）**（未完）**
 
-[61. 旋转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0061.md>)（中等）**（未完）**
+[61. 旋转链表](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0061.md>)（中等）
 
 [62. 不同路径](<https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0062.md>)（中等）
 
