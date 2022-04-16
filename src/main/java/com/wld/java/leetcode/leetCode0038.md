@@ -48,6 +48,4 @@
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（37. 解数独）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0037.md)
-
-#### [下一题（39. 组合总和）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0039.md)
+#### 

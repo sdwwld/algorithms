@@ -44,6 +44,4 @@
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（88. 合并两个有序数组）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0088.md)
-
-#### [下一题（90. 子集 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0090.md)
+#### 

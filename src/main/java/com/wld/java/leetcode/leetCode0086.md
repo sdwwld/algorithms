@@ -19,6 +19,4 @@
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（85. 最大矩形）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0085.md)
-
-#### [下一题（87. 扰乱字符串）(困难)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0087.md)
+#### 

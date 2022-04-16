@@ -39,6 +39,8 @@ public ListNode getKthFromEnd(ListNode head, int k) {
 }
 ```
 
+<br/>
+
 #### 2，使用栈解决
 
 这题要求的是返回后面的k个节点，我们只要把原链表的结点全部压栈，然后再把栈中最上面的k个节点出栈，出栈的结点重新串成一个新的链表即可，原理也比较简单，直接看下代码。
@@ -61,6 +63,8 @@ public ListNode getKthFromEnd(ListNode head, int k) {
     return firstNode;
 }
 ```
+
+<br/>
 
 #### 3，递归求解
 

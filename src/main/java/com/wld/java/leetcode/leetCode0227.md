@@ -1,15 +1,53 @@
 ## [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)（中等）
 
+实现一个基本的计算器来计算一个简单的字符串表达式的值。
 
+字符串表达式仅包含非负整数，+， - ，*，/ 四种运算符和空格  。 整数除法仅保留整数部分。
 
+**示例 1:**
 
+```
+输入: "3+2*2"
+输出: 7
+```
+
+**示例 2:**
+
+```
+输入: " 3/2 "
+输出: 1
+```
+
+**示例 3:**
+
+```
+输入: " 3+5 / 2 "
+输出: 5
+```
+
+**说明：**
+
+- 你可以假设所给定的表达式都是有效的。
+- 请**不要**使用内置的库函数 `eval`。
+
+<br/>
 
 ### 答案：
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（226. 翻转二叉树）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0226.md)
-
-#### [下一题（228. 汇总区间）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0228.md)
+#### 

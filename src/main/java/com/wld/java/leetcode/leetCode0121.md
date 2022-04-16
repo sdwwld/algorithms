@@ -31,6 +31,4 @@
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（120. 三角形最小路径和）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0120.md)
-
-#### [下一题（122. 买卖股票的最佳时机 II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0122.md)
+#### 

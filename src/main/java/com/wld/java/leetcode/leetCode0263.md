@@ -1,15 +1,54 @@
 ## [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)（简单）
 
+编写一个程序判断给定的数是否为丑数。
 
+丑数就是只包含质因数 `2, 3, 5` 的**正整数**。
 
+**示例 1:**
 
+```
+输入: 6
+输出: true
+解释: 6 = 2 × 3
+```
+
+**示例 2:**
+
+```
+输入: 8
+输出: true
+解释: 8 = 2 × 2 × 2
+```
+
+**示例 3:**
+
+```
+输入: 14
+输出: false 
+解释: 14 不是丑数，因为它包含了另外一个质因数 7。
+```
+
+**说明：**
+
+1. `1` 是丑数。
+2. 输入不会超过 32 位有符号整数的范围: [−2^31, 2^31 − 1]。
+
+<br/>
 
 ### 答案：
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（260. 只出现一次的数字 III）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0260.md)
-
-#### [下一题（264. 丑数 II）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0264.md)
+#### 

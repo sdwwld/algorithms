@@ -47,7 +47,7 @@ public int[] exchange(int[] nums) {
 }
 ```
 
-
+<br/>
 
 #### 2，双指针求解
 
@@ -84,6 +84,8 @@ public static int[] exchange(int[] nums) {
 ```
 
 代码16到20行是交换两个数字的值，交换两个数的值有多种方式，这里选择的是通过异或来交换，如果看不明白可以看一下[357，交换两个数字的值](https://mp.weixin.qq.com/s/2Ll_LyG37qkoRn6A1EMRVQ)。
+
+<br/>
 
 #### 3，快慢指针求解
 

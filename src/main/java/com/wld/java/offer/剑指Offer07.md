@@ -31,7 +31,8 @@
 
 ### 答案：
 
-1，递归方式
+#### 1，递归方式
+
 做这题之前我们先来看一下树的几种遍历顺序。
 
 **先序遍历：根节点→左子树→右子树。**
@@ -231,6 +232,12 @@ private TreeNode build(int[] preorder, int[] inorder, int stop) {
 看一下运行结果
 
 ![image.png](https://pic.leetcode-cn.com/4bcaf18cdb5c3cef93aa0460c1bad9880bd23298a56519a4807c5a584d92aedf-image.png)
+
+
+
+参考：[105. 从前序与中序遍历序列构造二叉树](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0105.md)
+
+
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 

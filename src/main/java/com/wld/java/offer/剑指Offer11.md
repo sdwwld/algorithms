@@ -109,6 +109,10 @@ public int minArray(int[] numbers) {
 
 ![image.png](https://pic.leetcode-cn.com/c1425f7dae77239a0a415630a814e6a377104ddd029d564a511e672c39157101-image.png)
 
+参照：[154. 寻找旋转排序数组中的最小值 II](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0154.md)
+
+
+
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
 #### [上一题（10. 青蛙跳台阶问题-II）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/offer/剑指Offer10-II.md)

@@ -25,6 +25,4 @@
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（144. 二叉树的前序遍历）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0144.md)
-
-#### [下一题（146. LRU缓存机制）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0146.md)
+#### 

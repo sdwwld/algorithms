@@ -47,7 +47,5 @@ T     S     G
 
 ![](https://img-blog.csdnimg.cn/20200807155236311.png)
 
-#### [上一题（5. 最长回文子串）(中等)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0005.md)
-
-#### [下一题（7. 整数反转）(简单)](https://github.com/sdwwld/leetCode/blob/master/src/main/java/com/wld/java/leetcode/leetCode0007.md)
+#### 
 
